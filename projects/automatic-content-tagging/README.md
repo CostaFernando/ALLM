@@ -1,4 +1,4 @@
-# Project Title: Automatic Content Tagging using LLMs
+# Automatic Content Tagging using LLMs
 
 ## Introduction
 
