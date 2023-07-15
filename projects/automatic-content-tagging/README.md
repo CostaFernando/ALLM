@@ -4,9 +4,7 @@
 
 This repository contains the code and associated data for a project involving the use of Large Language Models (LLMs) for the task of Automatic Content Tagging. Specifically, we are exploring the tagging of exam content based on pre-defined skills and knowledge areas. This project is specifically focused on the ENEM exams.
 
-## Project Structure
-
-The repository is structured as follows:
+## Data
 
 - `ENEM_tagged_questions.csv` - This file contains tagged questions from the ENEM exams. The columns include:
 
@@ -28,11 +26,72 @@ The repository is structured as follows:
   - `Skill_Number`: The unique number assigned to the skill
   - `Skill_Description`: A detailed description of the skill
 
-## Usage
+Sure, here's an updated version of your documentation:
 
-This project is designed to train a Large Language Model to automatically tag questions from the ENEM exams based on their content. The main script reads in the `ENEM_tagged_questions.csv` file and uses the question text and associated tags to train the model. The model can then be used to predict the tags for new, untagged questions.
+---
 
-The `ENEM_Reference_Matrix.csv` file serves as a reference for understanding the meaning of the tags and the skills they represent.
+## Streamlit App
+
+Our Streamlit application provides a user-friendly interface for automatic content tagging. It allows you to upload a CSV file of exam questions without assigned skills, along with a CSV file of potential skills. The application will then generate embeddings for both the questions and skills using a large language model, match each question to the most relevant skill, and return a downloadable CSV file with the predicted skill for each question.
+
+### Setting up and Running the App
+
+To run this application locally, follow these steps:
+
+1. **Create a Python virtual environment**:
+
+A virtual environment is an isolated Python environment that allows you to install specific versions of packages without affecting your system-wide Python setup. To create a virtual environment, navigate to the `streamlit-app` directory in your terminal and enter the following command:
+
+```bash
+python3 -m venv venv
+```
+
+This will create a new virtual environment in a folder named `venv` within your current directory.
+
+2. **Activate the virtual environment**:
+
+Before installing any packages or running the app, you'll need to activate your virtual environment. You can do so with the following command:
+
+- On Unix or MacOS, enter:
+
+  ```bash
+  source venv/bin/activate
+  ```
+
+- On Windows, enter:
+  ```bash
+  .\venv\Scripts\activate
+  ```
+
+3. **Install the necessary packages**:
+
+You can install all the necessary Python packages using the `requirements.txt` file included in the `streamlit-app` directory. Enter the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all required packages in your virtual environment.
+
+4. **Set up environment variables**:
+
+Copy the `.env.example` file and rename it to `.env`. Fill in the necessary environment variables.
+
+5. **Run the Streamlit app**:
+
+Now you're ready to run the app! Enter the following command in your terminal:
+
+```bash
+streamlit run app.py
+```
+
+This will start the Streamlit server and open the app in a new tab in your default web browser. If it doesn't open automatically, you can manually navigate to `http://localhost:8501`.
+
+The application will prompt you to upload two CSV files. The first should contain the exam questions you want to tag, and the second should contain the list of potential skills. After you upload these files, the app will process them and provide a link to download a new CSV file. This file will contain your original questions, along with the predicted skill for each one.
+
+---
+
+That's it! Now your users should be able to set up and run your Streamlit application following these instructions.
 
 ## Acknowledgements
 
