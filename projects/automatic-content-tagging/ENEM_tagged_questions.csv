@@ -1,5 +1,5 @@
-Year,SG_AREA,TX_COR,CO_PROVA,Question Number,Question Text,Ability Code
-2022,MT,AZUL,1075,Questão 136 - Matemática e suas Tecnologias,"Uma  máquina  em  operação  tem  sua  temperatura  T  monitorada  por  meio  de  um
+Year,Discipline,SG_AREA,TX_COR,CO_PROVA,Question_Number,Question_Text,Skill_Number
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 136 - Matemática e suas Tecnologias,"Uma  máquina  em  operação  tem  sua  temperatura  T  monitorada  por  meio  de  um
 registro gráfico, ao longo do tempo t. Essa máquina possui um pistão cuja velocidade V
 
 varia com a temperatura T da máquina, de acordo com a expressão V = T  –  4.  Após  a
@@ -48,7 +48,7 @@ E
 5
 
 /",25
-2022,MT,AZUL,1075,Questão 137 - Matemática e suas Tecnologias,"A  World  Series  é  a  decisão  do  campeonato  norte-americano  de  beisebol.  Os  dois
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 137 - Matemática e suas Tecnologias,"A  World  Series  é  a  decisão  do  campeonato  norte-americano  de  beisebol.  Os  dois
 times que chegam a essa fase jogam, entre si, até sete partidas. O primeiro desses times
 
 que completar quatro vitórias é declarado campeão.
@@ -90,7 +90,7 @@ E
 64
 
 /",28
-2022,MT,AZUL,1075,Questão 138 - Matemática e suas Tecnologias,"O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 138 - Matemática e suas Tecnologias,"O gráfico apresenta os totais de receitas e despesas de uma empresa, expressos em
 
 milhão de reais, no decorrer dos meses de um determinado ano. A  empresa obtém lucro
 quando  a  diferença  entre  receita  e  despesa  é  positiva  e  tem  prejuízo  quando  essa
@@ -145,7 +145,7 @@ E
 5,5
 
 /",27
-2022,MT,AZUL,1075,Questão 139 - Matemática e suas Tecnologias,"Um  casal  está  reformando  a  cozinha  de  casa  e  decidiu  comprar  um  refrigerador
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 139 - Matemática e suas Tecnologias,"Um  casal  está  reformando  a  cozinha  de  casa  e  decidiu  comprar  um  refrigerador
 novo. Observando a planta da nova cozinha, desenhada na escala de 1 : 50, notaram que
 o espaço destinado ao refrigerador tinha 3,8 cm de altura e 1,6 cm de largura. Eles sabem
 
@@ -179,7 +179,7 @@ E
 2,00 e 1,00.
 
 /",11
-2022,MT,AZUL,1075,Questão 140 - Matemática e suas Tecnologias,"Foram  convidadas  32  equipes  para  um  torneio  de  futebol,  que  foram  divididas  em
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 140 - Matemática e suas Tecnologias,"Foram  convidadas  32  equipes  para  um  torneio  de  futebol,  que  foram  divididas  em
 
 8 grupos com 4 equipes, sendo que, dentro de um grupo, cada equipe disputa uma única
 partida  contra  cada  uma  das  demais  equipes  de  seu  grupo.  A  primeira  e  a  segunda
@@ -218,7 +218,7 @@ E
 64.
 
 /",3
-2022,MT,AZUL,1075,Questão 141 - Matemática e suas Tecnologias,"Em  um  jogo  de  bingo,  as  cartelas  contêm  16  quadrículas  dispostas  em  linhas  e
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 141 - Matemática e suas Tecnologias,"Em  um  jogo  de  bingo,  as  cartelas  contêm  16  quadrículas  dispostas  em  linhas  e
 colunas.  Cada  quadrícula  tem  impresso  um  número,  dentre  os  inteiros  de  1  a  50,  sem
 repetição de número. Na primeira rodada, um número é sorteado, aleatoriamente, dentre
 
@@ -297,7 +297,7 @@ E
 46 45
 
 /",28
-2022,MT,AZUL,1075,Questão 142 - Matemática e suas Tecnologias,"Uma  montadora  de  automóveis  divulgou  que  oferta  a  seus  clientes  mais  de
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 142 - Matemática e suas Tecnologias,"Uma  montadora  de  automóveis  divulgou  que  oferta  a  seus  clientes  mais  de
 1 000 configurações diferentes de carro, variando o modelo, a motorização, os opcionais
 e  a  cor  do  veículo.  Atualmente,  ela  oferece  7  modelos  de  carros  com  2  tipos  de
 motores:  1.0  e  1.6.  Já  em  relação  aos  opcionais,  existem  3  escolhas  possíveis:
@@ -329,7 +329,7 @@ E
 24.
 
 /",5
-2022,MT,AZUL,1075,Questão 143 - Matemática e suas Tecnologias,"Dentre  as  diversas  planificações  possíveis  para  o  cubo,  uma  delas  é  a  que  se
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 143 - Matemática e suas Tecnologias,"Dentre  as  diversas  planificações  possíveis  para  o  cubo,  uma  delas  é  a  que  se
 
 encontra apresentada na Figura 1.
 
@@ -360,7 +360,7 @@ D
 E
 
 /",7
-2022,MT,AZUL,1075,Questão 144 - Matemática e suas Tecnologias,"Cada número que identifica uma agência bancária tem quatro dígitos: N , N , N , N
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 144 - Matemática e suas Tecnologias,"Cada número que identifica uma agência bancária tem quatro dígitos: N , N , N , N
 4
 
 1
@@ -424,7 +424,7 @@ E
 9
 
 /",1
-2022,MT,AZUL,1075,Questão 145 - Matemática e suas Tecnologias,"O  pacote  básico  de  um  jogo  para  smartphone,  que  é  vendido  a  R$  50,00,  contém
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 145 - Matemática e suas Tecnologias,"O  pacote  básico  de  um  jogo  para  smartphone,  que  é  vendido  a  R$  50,00,  contém
 
 2 000 gemas e 100 000 moedas de ouro, que são itens utilizáveis nesse jogo.
 
@@ -459,7 +459,7 @@ E
 400 000.
 
 /",18
-2022,MT,AZUL,1075,Questão 146 - Matemática e suas Tecnologias,"Um  parque  tem  dois  circuitos  de  tamanhos  diferentes  para  corridas.  Um  corredor
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 146 - Matemática e suas Tecnologias,"Um  parque  tem  dois  circuitos  de  tamanhos  diferentes  para  corridas.  Um  corredor
 treina nesse parque e, no primeiro dia, inicia seu treino percorrendo 3 voltas em torno do
 circuito maior e 2 voltas em torno do menor, perfazendo um total de 1 800 m. Em seguida,
 
@@ -493,7 +493,7 @@ E
 16. 
 
 /",21
-2022,MT,AZUL,1075,Questão 147 - Matemática e suas Tecnologias,"Uma  equipe  de  marketing  digital  foi  contratada  para  aumentar  as  vendas  de  um
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 147 - Matemática e suas Tecnologias,"Uma  equipe  de  marketing  digital  foi  contratada  para  aumentar  as  vendas  de  um
 produto ofertado em um site de comércio eletrônico. Para isso, elaborou um anúncio que,
 quando o cliente clica sobre ele, é direcionado para a página de vendas do produto. Esse
 anúncio  foi  divulgado  em  duas  redes  sociais,  A  e  B,  e  foram  obtidos  os  seguintes
@@ -555,7 +555,7 @@ E
 excelente.
 
 /",17
-2022,MT,AZUL,1075,Questão 148 - Matemática e suas Tecnologias,"A  luminosidade  L  de  uma  estrela  está  relacionada  com  o  raio  R  e  com  a
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 148 - Matemática e suas Tecnologias,"A  luminosidade  L  de  uma  estrela  está  relacionada  com  o  raio  R  e  com  a
 
 temperatura T dessa estrela segundo a Lei de Stefan-Boltzmann: L = c ⋅ R 
 c é uma constante igual para todas as estrelas.
@@ -618,7 +618,7 @@ F
 E
 
 /",15
-2022,MT,AZUL,1075,Questão 149 - Matemática e suas Tecnologias,"Uma das informações que pode auxiliar no dimensionamento do número de pediatras
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 149 - Matemática e suas Tecnologias,"Uma das informações que pode auxiliar no dimensionamento do número de pediatras
 que devem atender em uma Unidade Básica de Saúde (UBS) é o número que representa
 a  mediana  da  quantidade  de  crianças  por  família  existente  na  região  sob  sua
 
@@ -679,7 +679,7 @@ E
 2,5.
 
 /",27
-2022,MT,AZUL,1075,Questão 150 - Matemática e suas Tecnologias,"Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 150 - Matemática e suas Tecnologias,"Em jogos de voleibol, um saque é invalidado se a bola atingir o teto do ginásio onde
 ocorre o jogo. Um jogador de uma equipe tem um saque que atinge uma grande altura.
 Seu  recorde  foi  quando  a  batida  do  saque  se  iniciou  a  uma  altura  de  1,5  m  do  piso  da
 
@@ -751,7 +751,7 @@ E
 em todos os ginásios.
 
 /",22
-2022,MT,AZUL,1075,Questão 151 - Matemática e suas Tecnologias,"Um  médico  faz  o  acompanhamento  clínico  de  um  grupo  de  pessoas  que  realizam
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 151 - Matemática e suas Tecnologias,"Um  médico  faz  o  acompanhamento  clínico  de  um  grupo  de  pessoas  que  realizam
 atividades  físicas  diariamente.  Ele  observou  que  a  perda  média  de  massa  dessas
 
 pessoas para cada hora de atividade física era de 1,5 kg. Sabendo que a massa de 1 L
@@ -781,7 +781,7 @@ E
 70 minutos ou mais.
 
 /",17
-2022,MT,AZUL,1075,Questão 152 - Matemática e suas Tecnologias,"Em  uma  sala  de  cinema,  para  garantir  que  os  espectadores  vejam  toda  a  imagem
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 152 - Matemática e suas Tecnologias,"Em  uma  sala  de  cinema,  para  garantir  que  os  espectadores  vejam  toda  a  imagem
 projetada  na  tela,  a  disposição  das  poltronas  deve  obedecer  à  norma  técnica  da
 Associação Brasileira de Normas Técnicas (ABNT), que faz as seguintes indicações:
 
@@ -863,7 +863,7 @@ E
 35
 
 /",18
-2022,MT,AZUL,1075,Questão 153 - Matemática e suas Tecnologias,"Uma  empresa  produz  e  vende  um  tipo  de  chocolate,  maciço,  em  formato  de  cone
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 153 - Matemática e suas Tecnologias,"Uma  empresa  produz  e  vende  um  tipo  de  chocolate,  maciço,  em  formato  de  cone
 circular  reto  com  as  medidas  do  diâmetro  da  base  e  da  altura  iguais  a  8  cm  e  10  cm,
 respectivamente, como apresenta a figura.
 
@@ -900,7 +900,7 @@ E
 7,20.
 
 /",14
-2022,MT,AZUL,1075,Questão 154 - Matemática e suas Tecnologias,"Em 
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 154 - Matemática e suas Tecnologias,"Em 
 
 janeiro  de  2013, 
 
@@ -937,7 +937,7 @@ E
 448 568.
 
 /",3
-2022,MT,AZUL,1075,Questão 155 - Matemática e suas Tecnologias,"Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 155 - Matemática e suas Tecnologias,"Um prédio, com 9 andares e 8 apartamentos de 2 quartos por andar, está com todos
 os seus apartamentos à venda. Os apartamentos são identificados por números formados
 por dois algarismos, sendo que a dezena indica o andar onde se encontra o apartamento,
 e a unidade, um algarismo de 1 a 8, que diferencia os apartamentos de um mesmo andar.
@@ -1033,7 +1033,7 @@ E
 !
 
 /",2
-2022,MT,AZUL,1075,Questão 156 - Matemática e suas Tecnologias,"O professor de artes orientou seus estudantes a realizarem a seguinte sequência de
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 156 - Matemática e suas Tecnologias,"O professor de artes orientou seus estudantes a realizarem a seguinte sequência de
 
 atividades:
 
@@ -1101,7 +1101,7 @@ D
 E
 
 /",7
-2022,MT,AZUL,1075,Questão 157 - Matemática e suas Tecnologias,"O  funcionário  de  uma  loja  tem  seu  salário  mensal  formado  por  uma  parcela  fixa  de
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 157 - Matemática e suas Tecnologias,"O  funcionário  de  uma  loja  tem  seu  salário  mensal  formado  por  uma  parcela  fixa  de
 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no
 mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios:
 
@@ -1127,7 +1127,7 @@ D
 E
 
 /",19
-2022,MT,AZUL,1075,Questão 158 - Matemática e suas Tecnologias,"Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 158 - Matemática e suas Tecnologias,"Ao analisar os dados de uma epidemia em uma cidade, peritos obtiveram um modelo
 que  avalia  a  quantidade  de  pessoas  infectadas  a  cada  mês,  ao  longo  de  um  ano.  O
 
  2 
@@ -1177,7 +1177,7 @@ E
 V.
 
 /",23
-2022,MT,AZUL,1075,Questão 159 - Matemática e suas Tecnologias,"Um  atleta  iniciou  seu  treinamento  visando  as  competições  de  fim  de  ano.  Seu
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 159 - Matemática e suas Tecnologias,"Um  atleta  iniciou  seu  treinamento  visando  as  competições  de  fim  de  ano.  Seu
 treinamento  consiste  em  cinco  tipos  diferentes  de  treinos:  treino  T ,  treino  T ,  treino  T ,
 3
 
@@ -1236,7 +1236,7 @@ E R T R T R R T .
 1 
 
 /",2
-2022,MT,AZUL,1075,Questão 160 - Matemática e suas Tecnologias,"Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 160 - Matemática e suas Tecnologias,"Um robô, que tem um ímã em sua base, se desloca sobre a superfície externa de um
 cubo metálico, ao longo de segmentos de reta cujas extremidades são pontos médios de
 arestas  e  centros  de  faces.  Ele  inicia  seu  deslocamento  no  ponto  P,  centro  da  face
 superior do cubo, segue para o centro da próxima face, converte à esquerda e segue para
@@ -1264,7 +1264,7 @@ D
 E
 
 /",6
-2022,MT,AZUL,1075,Questão 161 - Matemática e suas Tecnologias,"Uma empresa de engenharia projetou uma casa com a forma de um retângulo para
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 161 - Matemática e suas Tecnologias,"Uma empresa de engenharia projetou uma casa com a forma de um retângulo para
 
 um  de  seus  clientes.  Esse  cliente  solicitou  a  inclusão  de  uma  varanda  em  forma  de  L.
 A  figura  apresenta  a  planta  baixa  desenhada  pela  empresa,  já  com  a  varanda  incluída,
@@ -1322,7 +1322,7 @@ E
 534,40.
 
 /",11
-2022,MT,AZUL,1075,Questão 162 - Matemática e suas Tecnologias,"Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 162 - Matemática e suas Tecnologias,"Uma loja de roupas fixou uma meta de vendas de 77 000 reais para um determinado
 mês  de  30  dias.  O  gráfico  mostra  o  volume  de  vendas  dessa  loja,  em  real,  nos  dez
 
 primeiros  dias  do  mês  e  entre  o  dia  dez  e  o  dia  vinte  desse  mês,  nos  seus  dois  únicos
@@ -1355,7 +1355,7 @@ E
 29 000
 
 /",24
-2022,MT,AZUL,1075,Questão 163 - Matemática e suas Tecnologias,"Em  uma  universidade,  atuam  professores  que  estão  enquadrados  funcionalmente
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 163 - Matemática e suas Tecnologias,"Em  uma  universidade,  atuam  professores  que  estão  enquadrados  funcionalmente
 pela  sua  maior  titulação:  mestre  ou  doutor.  Nela  há,  atualmente,  60  mestres  e
 40  doutores.  Os  salários  mensais  dos  professores  mestres  e  dos  doutores  são,
 respectivamente, R$ 8 000,00 e R$ 12 000,00.
@@ -1389,7 +1389,7 @@ E
 37,5.
 
 /",30
-2022,MT,AZUL,1075,Questão 164 - Matemática e suas Tecnologias,"Um  borrifador  de  atuação  automática  libera,  a  cada  acionamento,  uma  mesma
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 164 - Matemática e suas Tecnologias,"Um  borrifador  de  atuação  automática  libera,  a  cada  acionamento,  uma  mesma
 
 quantidade  de  inseticida.  O  recipiente  desse  produto,  quando  cheio,  contém  360  mL  de
 inseticida,  que  duram  60  dias  se  o  borrifador  permanecer  ligado  ininterruptamente  e  for
@@ -1418,7 +1418,7 @@ E
 12,000.
 
 /",12
-2022,MT,AZUL,1075,Questão 165 - Matemática e suas Tecnologias,"Definem-se  o  dia  e  o  ano  de  um  planeta  de  um  sistema  solar  como  sendo,
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 165 - Matemática e suas Tecnologias,"Definem-se  o  dia  e  o  ano  de  um  planeta  de  um  sistema  solar  como  sendo,
 respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu
 próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol.
 
@@ -1449,7 +1449,7 @@ E
 53 290,0
 
 /",10
-2022,MT,AZUL,1075,Questão 166 - Matemática e suas Tecnologias,"Em  uma  competição  de  velocidade,  diz-se  que  há  uma  ultrapassagem  quando  um
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 166 - Matemática e suas Tecnologias,"Em  uma  competição  de  velocidade,  diz-se  que  há  uma  ultrapassagem  quando  um
 veículo que está atrás de outro passa à sua frente, com ambos se deslocando no mesmo
 sentido. Considere uma competição automobilística entre cinco carros em uma pista com
 100  m  de  comprimento,  onde  todos  largam  no  mesmo  instante  e  da  mesma  linha.
@@ -1509,7 +1509,7 @@ E
 4
 
 /",20
-2022,MT,AZUL,1075,Questão 167 - Matemática e suas Tecnologias,"Em  uma  loja,  o  preço  promocional  de  uma  geladeira  é  de  R$ 1 000,00  para
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 167 - Matemática e suas Tecnologias,"Em  uma  loja,  o  preço  promocional  de  uma  geladeira  é  de  R$ 1 000,00  para
 
 pagamento  somente  em  dinheiro.  Seu  preço  normal,  fora  da  promoção,  é  10%  maior.
 Para pagamento feito com o cartão de crédito da loja, é dado um desconto de 2% sobre o
@@ -1534,7 +1534,7 @@ D R$ 42,00 maior.
 E R$ 80,00 maior.
 
 /",4
-2022,MT,AZUL,1075,Questão 168 - Matemática e suas Tecnologias,"Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 168 - Matemática e suas Tecnologias,"Uma pessoa precisa se deslocar de automóvel do ponto P para o ponto Q, indicados
 
 na figura, na qual as linhas verticais e horizontais simbolizam ruas.
 
@@ -1565,7 +1565,7 @@ E
 EFDFEEEDFFE.
 
 /",6
-2022,MT,AZUL,1075,Questão 169 - Matemática e suas Tecnologias,"Uma  loja  comercializa  cinco  modelos  de  caixas-d’água  (I,  II,  III,  IV  e  V),  todos  em
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 169 - Matemática e suas Tecnologias,"Uma  loja  comercializa  cinco  modelos  de  caixas-d’água  (I,  II,  III,  IV  e  V),  todos  em
 formato de cilindro reto de base circular. Os modelos II, III, IV e V têm as especificações
 de suas dimensões dadas em relação às dimensões do modelo I, cuja profundidade é P e
 área da base é 
@@ -1607,7 +1607,7 @@ E
 V.
 
 /",9
-2022,MT,AZUL,1075,Questão 170 - Matemática e suas Tecnologias,"No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 170 - Matemática e suas Tecnologias,"No período de 2005 a 2013, o valor de venda dos imóveis em uma cidade apresentou
 
 alta, o que resultou no aumento dos aluguéis. Os gráficos apresentam a evolução desses
 valores, para um mesmo imóvel, no mercado imobiliário dessa cidade.
@@ -1770,7 +1770,7 @@ E
 2013
 
 /",26
-2022,MT,AZUL,1075,Questão 171 - Matemática e suas Tecnologias,"Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo,
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 171 - Matemática e suas Tecnologias,"Nos cinco jogos finais da última temporada, com uma média de 18 pontos por jogo,
 um  jogador  foi  eleito  o  melhor  do  campeonato  de  basquete.  Na  atual  temporada,  cinco
 jogadores têm a chance de igualar ou melhorar essa média. No quadro estão registradas
 
@@ -1865,7 +1865,7 @@ E
 V.
 
 /",29
-2022,MT,AZUL,1075,Questão 172 - Matemática e suas Tecnologias,"Um  casal  planeja  construir  em  sua  chácara  uma  piscina  com  o  formato  de  um
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 172 - Matemática e suas Tecnologias,"Um  casal  planeja  construir  em  sua  chácara  uma  piscina  com  o  formato  de  um
 paralelepípedo reto retângulo com capacidade para 90 000 L de água. O casal contratou
 uma empresa de construções que apresentou cinco projetos com diferentes combinações
 nas  dimensões  internas  de  profundidade,  largura  e  comprimento.  A  piscina  a  ser
@@ -1910,7 +1910,7 @@ E
 V.
 
 /",13
-2022,MT,AZUL,1075,Questão 173 - Matemática e suas Tecnologias,"Uma  instituição  de  ensino  superior  ofereceu  vagas  em  um  processo  seletivo  de
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 173 - Matemática e suas Tecnologias,"Uma  instituição  de  ensino  superior  ofereceu  vagas  em  um  processo  seletivo  de
 
 acesso  a  seus  cursos.  Finalizadas  as  inscrições,  foi  divulgada  a  relação  do  número  de
 candidatos por vaga em cada um dos cursos oferecidos. Esses dados são apresentados
@@ -1985,7 +1985,7 @@ E
 7 200
 
 /",25
-2022,MT,AZUL,1075,Questão 174 - Matemática e suas Tecnologias,"Peças  metálicas  de  aeronaves  abandonadas  em  aeroportos  serão  recicladas.  Uma
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 174 - Matemática e suas Tecnologias,"Peças  metálicas  de  aeronaves  abandonadas  em  aeroportos  serão  recicladas.  Uma
 dessas peças é maciça e tem o formato cilíndrico, com a medida do raio da base igual a
 4 cm e a da altura igual a 50 cm. Ela será derretida, e o volume de metal resultante será
 
@@ -2017,7 +2017,7 @@ E
 6 400
 
 /",8
-2022,MT,AZUL,1075,Questão 175 - Matemática e suas Tecnologias,"Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 175 - Matemática e suas Tecnologias,"Ao escutar a notícia de que um filme recém-lançado arrecadou, no primeiro mês de
 lançamento, R$ 1,35 bilhão em bilheteria, um estudante escreveu corretamente o número
 que representa essa quantia, com todos os seus algarismos.
 
@@ -2044,7 +2044,7 @@ E
 1 350 000 000,00.
 
 /",1
-2022,MT,AZUL,1075,Questão 176 - Matemática e suas Tecnologias,"O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 176 - Matemática e suas Tecnologias,"O governo de um estado pretende realizar uma obra de infraestrutura para auxiliar na
 
 integração  e  no  processo  de  escoamento  da  produção  agrícola  de  duas  cidades.
 O  projeto  consiste  na  interligação  direta  das  cidades  A  e  B  com  a  Rodovia  003,  pela
@@ -2115,7 +2115,7 @@ E
 V
 
 /",9
-2022,MT,AZUL,1075,Questão 177 - Matemática e suas Tecnologias,"Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 177 - Matemática e suas Tecnologias,"Uma pessoa precisa contratar um operário para fazer um serviço em sua casa. Para
 
 isso, ela postou um anúncio em uma rede social.
 
@@ -2202,7 +2202,7 @@ E
 V.
 
 /",26
-2022,MT,AZUL,1075,Questão 178 - Matemática e suas Tecnologias,"Uma  cozinheira  produz  docinhos  especiais  por  encomenda.  Usando  uma
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 178 - Matemática e suas Tecnologias,"Uma  cozinheira  produz  docinhos  especiais  por  encomenda.  Usando  uma
 receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços
 de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos,
 mas  pede  que  cada  um  tenha  formato  esférico  com  4  cm  de  diâmetro.  A  cozinheira
@@ -2233,7 +2233,7 @@ E
 24
 
 /",12
-2022,MT,AZUL,1075,Questão 179 - Matemática e suas Tecnologias,"A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 179 - Matemática e suas Tecnologias,"A esperança de vida ao nascer é o número médio de anos que um indivíduo tende a
 viver  a  partir  de  seu  nascimento,  considerando  dados  da  população.  No  Brasil,  esse
 
 número vem aumentando consideravelmente, como mostra o gráfico.
@@ -2303,7 +2303,7 @@ E
 78,49.
 
 /",24
-2022,MT,AZUL,1075,Questão 180 - Matemática e suas Tecnologias,"Na  figura  estão  destacadas  duas  trajetórias  sobre  a  superfície  do  globo  terrestre,
+2022,Matemática e suas Tecnologias,MT,AZUL,1075,Questão 180 - Matemática e suas Tecnologias,"Na  figura  estão  destacadas  duas  trajetórias  sobre  a  superfície  do  globo  terrestre,
 descritas ao se percorrer parte dos meridianos 1, 2 e da Linha do Equador, sendo que os
  é paralelo
 meridianos 1 e 2 estão contidos em planos perpendiculares entre si. O plano 

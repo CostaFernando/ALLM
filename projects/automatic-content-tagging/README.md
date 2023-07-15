@@ -11,6 +11,7 @@ The repository is structured as follows:
 - `ENEM_tagged_questions.csv` - This file contains tagged questions from the ENEM exams. The columns include:
 
   - `Year`: The year the exam was administered
+  - `Discipline`: The general discipline or subject area associated with the question
   - `SG_AREA`: The knowledge area associated with the question. The possible values are:
     - CH: Humanities
     - CN: Natural Sciences
@@ -18,9 +19,9 @@ The repository is structured as follows:
     - MT: Mathematics and Technologies
   - `TX_COR`: The color of the test booklet (Azul indicates a blue booklet)
   - `CO_PROVA`: The unique code of the exam
-  - `Question Number`: The sequence number of the question within the exam
-  - `Question Text`: The text of the question itself
-  - `Ability Code`: The code representing the ability or skill that the question is designed to test
+  - `Question_Number`: The sequence number of the question within the exam
+  - `Question_Text`: The text of the question itself
+  - `Skill_Number`: The code representing the ability or skill that the question is designed to test
 
 - `ENEM_Reference_Matrix.csv` - This file serves as a reference for the skills tested by the ENEM exams. The columns include:
   - `Discipline`: The general discipline or subject area associated with the skill
