@@ -26,13 +26,11 @@ This repository contains the code and associated data for a project involving th
   - `Skill_Number`: The unique number assigned to the skill
   - `Skill_Description`: A detailed description of the skill
 
-Sure, here's an updated version of your documentation:
-
----
-
 ## Streamlit App
 
 Our Streamlit application provides a user-friendly interface for automatic content tagging. It allows you to upload a CSV file of exam questions without assigned skills, along with a CSV file of potential skills. The application will then generate embeddings for both the questions and skills using a large language model, match each question to the most relevant skill, and return a downloadable CSV file with the predicted skill for each question.
+
+<img width="748" alt="image" src="https://github.com/CostaFernando/ALLM/assets/17749414/f7fc4914-e57c-4047-be0c-8e1e824c863d">
 
 ### Setting up and Running the App
 
@@ -88,10 +86,6 @@ streamlit run app.py
 This will start the Streamlit server and open the app in a new tab in your default web browser. If it doesn't open automatically, you can manually navigate to `http://localhost:8501`.
 
 The application will prompt you to upload two CSV files. The first should contain the exam questions you want to tag, and the second should contain the list of potential skills. After you upload these files, the app will process them and provide a link to download a new CSV file. This file will contain your original questions, along with the predicted skill for each one.
-
----
-
-That's it! Now your users should be able to set up and run your Streamlit application following these instructions.
 
 ## Acknowledgements
 
