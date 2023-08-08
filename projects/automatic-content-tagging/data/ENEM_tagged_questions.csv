@@ -2337,3 +2337,1679 @@ D
 E
 
 /",6
+2021,Matemática e suas Tecnologias,MT,AZUL,899,136,"Um  segmento  de  reta  está  dividido  em  duas  partes  na  proporção  áurea  quando  o
+todo  está  para  uma  das  partes  na  mesma  razão  em  que  essa  parte  está  para  a  outra.
+Essa constante de proporcionalidade é comumente representada pela letra grega φ, e seu
+valor é dado pela solução positiva da equação φ  = φ + 1.
+2
+Assim  como  a  potência  φ ,  as  potências  superiores  de  φ  podem  ser  expressas  da
+2
+forma aφ + b, em que a e b são inteiros positivos, como apresentado no quadro.
+A potência φ , escrita na forma aφ + b (a e b são inteiros positivos), é
+7
+## A
+5φ + 3
+## B
+## C
+7φ + 2
+9φ + 6
+## D
+11φ + 7
+## E
+13φ + 8",2
+2021,Matemática e suas Tecnologias,MT,AZUL,899,137,"O  Atomium,  representado  na  imagem,  é  um  dos  principais  pontos  turísticos  de
+Bruxelas. Ele foi construído em 1958 para a primeira grande exposição mundial depois da
+Segunda Guerra Mundial, a Feira Mundial de Bruxelas.
+Trata-se de uma estrutura metálica construída no formato de um cubo. Essa estrutura
+está apoiada por um dos vértices sobre uma base paralela ao plano do solo, e a diagonal
+do  cubo,  contendo  esse  vértice,  é  ortogonal  ao  plano  da  base.  Centradas  nos  vértices
+desse  cubo,  foram  construídas  oito  esferas  metálicas,  e  uma  outra  esfera  foi  construída
+centrada no ponto de interseção das diagonais do cubo. As oito esferas sobre os vértices
+são  interligadas  segundo  suas  arestas,  e  a  esfera  central  se  conecta  a  elas  pelas
+diagonais do cubo.
+Todas essas interligações são feitas por tubos cilíndricos que possuem escadas em
+seu  interior,  permitindo  o  deslocamento  de  pessoas  pela  parte  interna  da  estrutura.  Na
+diagonal  ortogonal  à  base,  o  deslocamento  é  feito  por  um  elevador,  que  permite  o
+deslocamento  entre  as  esferas  da  base  e  a  esfera  do  ponto  mais  alto,  passando  pela
+esfera central.
+as diagonais do cubo.
+Considere  um  visitante  que  se  deslocou  pelo  interior  do  Atomium  sempre  em  linha
+reta e seguindo o menor trajeto entre dois vértices, passando por todas as arestas e todas
+A  projeção  ortogonal  sobre  o  plano  do  solo  do  trajeto  percorrido  por  esse  visitante  é
+representada por
+Disponível em: http://trupedatrip.com. Acesso em: 25 out. 2019.
+## A
+## B
+## C
+## D
+## E",6
+2021,Matemática e suas Tecnologias,MT,AZUL,899,138,"A Copa do Brasil teve, até a edição de 2018, 15 times diferentes como campeões da
+competição,  conforme  apresentado  na  imagem.  Suponha  que,  como  homenagem  aos
+times campeões, a Confederação Brasileira de Futebol (CBF) pretenda colocar um painel
+na sua sede. Esse painel teria 6 linhas e, em cada uma delas, 5 placas, referentes a cada
+edição da competição, com o nome do time vencedor, o brasão e o ano do título. O painel
+deve ser fabricado de modo que a primeira linha só tenha clubes gaúchos (Internacional,
+times  cariocas  (Flamengo,  Vasco  e
+Grêmio  e  Juventude);  a  segunda,  apenas 
+Fluminense);  a  terceira,  somente  times  mineiros  (Cruzeiro  e  Atlético  Mineiro);  a  quarta,
+exclusivamente  clubes  paulistas  (Corinthians,  Palmeiras,  Santos,  Paulista  FC,  Santo
+André), e as duas últimas sem nenhuma restrição.
+Disponível em: http://campeoesdofutebol.com.br. Acesso em: 1 nov. 2018 (adaptado).
+Qual expressão determina a quantidade de painéis diferentes que a CBF poderá montar?
+## A
+## B
+## C
+## D
+## E",
+2021,Matemática e suas Tecnologias,MT,AZUL,899,139,"Uma  rede  de  hamburgueria  tem  três  franquias  em  cidades  distintas.  Visando  incluir
+um novo tipo de lanche no cardápio, o gerente de marketing da rede sugeriu que fossem
+colocados à venda cinco novos tipos de lanche, em edições especiais. Os lanches foram
+oferecidos  pelo  mesmo  período  de  tempo  em  todos  os  franqueados.  O  tipo  que
+apresentasse  a  maior  média  por  franquia  seria  incluído  definitivamente  no  cardápio.
+Terminado  o  período  de  experiência,  a  gerência  recebeu  um  relatório  descrevendo  as
+quantidades  vendidas,  em  unidade,  de  cada  um  dos  cinco  tipos  de  lanche  nas  três
+franquias.
+Com base nessas informações, a gerência decidiu incluir no cardápio o lanche de tipo
+## A
+## I.
+## B
+## C
+## II.
+## III.
+## D
+## IV.
+## E
+## V.",29
+2021,Matemática e suas Tecnologias,MT,AZUL,899,140,"Uma  grande  rede  de  supermercados  adota  um  sistema  de  avaliação  dos
+faturamentos de suas filiais, considerando a média de faturamento mensal em milhão. A
+matriz  da  rede  paga  uma  comissão  para  os  representantes  dos  supermercados  que
+atingirem uma média de faturamento mensal (M), conforme apresentado no quadro.
+Um  supermercado  da  rede  obteve  os  faturamentos  num  dado  ano,  conforme
+apresentado no quadro.
+Nas  condições  apresentadas,  os  representantes  desse  supermercado  avaliam  que
+receberão, no ano seguinte, a comissão de tipo
+## A
+## I.
+## B
+## C
+## II.
+## III.
+## D
+## IV.
+## E
+## V.",29
+2021,Matemática e suas Tecnologias,MT,AZUL,899,141,"Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e
+no  mundo  por  oferecer  opções  diferenciadas  em  termos  de  localização  e  valores  de
+hospedagem.  Em  um  desses  aplicativos,  o  preço  P  a  ser  pago    pela  hospedagem  é
+calculado considerando um preço por diária d, acrescido de uma taxa fixa de limpeza L e
+de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o
+valor pago pelo total das diárias.
+Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode
+ser obtido pela expressão
+## A
+## B
+## C
+## D
+## E",19
+2021,Matemática e suas Tecnologias,MT,AZUL,899,142,"O  organizador  de  uma  competição  de  lançamento  de  dardos  pretende  tornar  o
+campeonato  mais  competitivo.  Pelas  regras  atuais  da  competição,  numa  rodada,  o
+jogador lança 3 dardos e pontua caso acerte pelo menos um deles no alvo. O organizador
+considera que, em média, os jogadores têm, em cada lançamento, 
+ de probabilidade de
+acertar um dardo no alvo.
+A  fim  de  tornar  o  jogo  mais  atrativo,  planeja  modificar  as  regras  de  modo  que  a
+probabilidade  de  um  jogador  pontuar  em  uma  rodada  seja  igual  ou  superior  a 
+.  Para
+isso, decide aumentar a quantidade de dardos a serem lançados em cada rodada.
+Com  base  nos  valores  considerados  pelo  organizador  da  competição,  a  quantidade
+mínima de dardos que devem ser disponibilizados em uma rodada para tornar o jogo mais
+atrativo é
+## A
+2.
+## B
+## C
+4.
+6.
+## D
+9.
+## E
+10.",30
+2021,Matemática e suas Tecnologias,MT,AZUL,899,143,"O  gráfico  apresenta  o  nível  de  ocupação  dos  cinco  reservatórios  de  água  que
+abasteciam uma cidade em 2 de fevereiro de 2015.
+Nessa data, o reservatório com o maior volume de água era o
+## A
+## I.
+## B
+## C
+## II.
+## III.
+## D
+## IV.
+## E
+## V.",26
+2021,Matemática e suas Tecnologias,MT,AZUL,899,144,"Uma  pessoa  realizou  uma  pesquisa  com  alguns  alunos  de  uma  escola,  coletando
+suas idades, e organizou esses dados no gráfico.
+Qual é a média das idades, em ano, desses alunos?
+## A
+9
+## B
+## C
+12
+18
+## D
+19
+## E
+27",27
+2021,Matemática e suas Tecnologias,MT,AZUL,899,145,"Em  um  estudo  realizado  pelo  IBGE  em  quatro  estados  e  no  Distrito  Federal,  com
+mais de 5 mil pessoas com 10 anos ou mais, observou-se que a leitura ocupa, em média,
+apenas seis minutos do dia de cada pessoa. Na faixa de idade de 10 a 24 anos, a média
+diária  é  de  três  minutos.  No  entanto,  no  grupo  de  idades  entre  24  e  60  anos,  o  tempo
+médio  diário  dedicado  à  leitura  é  de  5  minutos.  Entre  os  mais  velhos,  com  60  anos  ou
+mais, a média é de 12 minutos.
+A quantidade de pessoas entrevistadas de cada faixa de idade seguiu a distribuição
+percentual descrita no quadro.
+Disponível em: www.oglobo.globo.com. Acesso em: 16 ago. 2013 (adaptado).
+Os valores de x e y do quadro são, respectivamente, iguais a
+## A
+10 e 80.
+## B
+## C
+10 e 90.
+20 e 60.
+## D
+20 e 80.
+## E
+25 e 50.",28
+2021,Matemática e suas Tecnologias,MT,AZUL,899,146,"Um zootecnista pretende testar se uma nova ração para coelhos é mais eficiente do
+que a que ele vem utilizando atualmente. A ração atual proporciona uma massa média de
+10 kg por coelho, com um desvio padrão de 1 kg, alimentado com essa ração durante um
+período de três meses.
+O zootecnista selecionou uma amostra de coelhos e os alimentou com a nova ração
+pelo  mesmo  período  de  tempo.  Ao  final,  anotou  a  massa  de  cada  coelho,  obtendo  um
+desvio padrão de 1,5 kg para a distribuição das massas dos coelhos dessa amostra.
+Para avaliar a eficiência dessa ração, ele utilizará o coeficiente de variação (CV ) que
+é uma medida de dispersão definida por 
+ , em que s representa o desvio padrão
+,  a  média  das  massas  dos  coelhos  que  foram  alimentados  com  uma  determinada
+e 
+ração.
+O  zootecnista  substituirá  a  ração  que  vinha  utilizando  pela  nova,  caso  o  coeficiente
+de variação da distribuição das massas dos coelhos que foram alimentados com a nova
+ração for menor do que o coeficiente de variação da distribuição das massas dos coelhos
+que foram alimentados com a ração atual.
+A substituição da ração ocorrerá se a média da distribuição das massas dos coelhos da
+amostra, em quilograma, for superior a
+## A
+5,0.
+## B
+## C
+9,5.
+10,0.
+## D
+10,5.
+## E
+15,0.",28
+2021,Matemática e suas Tecnologias,MT,AZUL,899,147,"A Cifra de César é um exemplo de um método de codificação de mensagens usado
+por Júlio César para se comunicar com seus generais.
+No método, cada letra era trocada por uma letra que aparecia no alfabeto um número
+fixo  de  casas  adiante  (ou  atrás)  de  forma  cíclica.  A  seguir  temos  um  exemplo  em  que
+cada letra é substituída pela que vem três posições à frente.
+Para quebrar um código como esse, a análise de frequências das letras de um texto
+é uma ferramenta importante.
+Uma análise do texto do romance O guarani, de José de Alencar, que é composto por
+491 631 letras, gerou o seguinte gráfico de frequências:
+Disponível em: www.dominiopublico.gov.br. Acesso em: 7 fev. 2015.
+Após codificar esse texto com a regra do exemplo fornecido, faz-se nova análise de
+frequência no texto codificado.
+As  quatro  letras  mais  frequentes,  em  ordem  decrescente  de  frequência,  do  texto
+codificado são
+## A
+A, E, O e S.
+B D, E, F e G.
+C D, H, R e V.
+D R, L, B e X.
+## E
+X, B, L e P.",25
+2021,Matemática e suas Tecnologias,MT,AZUL,899,148,"O  quadro  apresenta  o  número  de  terremotos  de  magnitude  maior  ou  igual  a  7,  na
+escala Richter, ocorridos em nosso planeta nos anos de 2000 a 2011.
+                      Disponível em: https://earthquake.usgs.gov/earthquakes/browse/m7-world.php. 
+Acesso em: 13 ago. 2012 (adaptado)
+Um  pesquisador  acredita  que  a  mediana  representa  bem  o  número  anual  típico  de
+terremotos em um período.
+Segundo esse pesquisador, o número anual típico de terremotos de magnitude maior ou
+igual a 7 é
+## A
+11.
+## B
+## C
+15.
+15,5.
+## D
+15,7.
+## E
+17,5.",27
+2021,Matemática e suas Tecnologias,MT,AZUL,899,149,"A receita R de uma empresa ao final de um mês é o dinheiro captado com a venda
+de  mercadorias  ou  com  a  prestação  de  serviços  nesse  mês,  e  a  despesa  D  é  todo  o
+dinheiro  utilizado  para  pagamento  de  salários,  contas  de  água  e  luz,  impostos,  entre
+outros. O lucro mensal obtido ao final do mês é a diferença entre a receita e a despesa
+registradas  no  mês.  O  gráfico  apresenta  as  receitas  e  despesas,  em  milhão  de  real,  de
+uma empresa ao final dos cinco primeiros meses de um dado ano.
+A previsão para os próximos meses é que o lucro mensal não seja inferior ao maior
+lucro obtido até o mês de maio.
+Nessas condições, o lucro mensal para os próximos meses deve ser maior ou igual ao do
+mês de
+## A
+## B
+janeiro.
+fevereiro.
+C março.
+## D
+abril.
+E maio.",24
+2021,Matemática e suas Tecnologias,MT,AZUL,899,150,"A depressão  caracteriza-se  por  um desequilíbrio na química cerebral. Os neurônios
+de  um  deprimido  não  respondem  bem  aos  estímulos  dos  neurotransmissores.  Os
+remédios que combatem a depressão têm o objetivo de restabelecer a química cerebral.
+Com  o  aumento  gradativo  de  casos  de  depressão,  a  venda  desses  medicamentos  está
+em crescente evolução, conforme ilustra o gráfico.
+No período de 2005 a 2009, o aumento percentual no volume de vendas foi de
+Veja, 10 fev. 2010 (adaptado).
+## A
+45,4.
+## B
+## C
+54,5.
+120.
+## D
+220.
+## E
+283,2.",25
+2021,Matemática e suas Tecnologias,MT,AZUL,899,151,"Um  casal  está  planejando  comprar  um  apartamento  de  dois  quartos  num  bairro  de
+uma  cidade  e  consultou  a  página  de  uma  corretora  de 
+imóveis,  encontrando
+105 apartamentos de dois quartos à venda no bairro desejado. Eles usaram um aplicativo
+da corretora para gerar a distribuição dos preços do conjunto de imóveis selecionados.
+O gráfico ilustra a distribuição de frequências dos preços de venda dos apartamentos
+dessa lista (em mil reais), no qual as faixas de preço são dadas por ]300, 400], ]400, 500],
+]500, 600], ]600, 700], ]700, 800], ]800, 900], ]900, 1 000], ]1 000, 1 100], ]1 100, 1 200] e
+]1 200, 1 300].
+A  mesma  corretora  anuncia  que  cerca  de  50%  dos  apartamentos  de  dois  quartos
+nesse bairro, publicados em sua página, têm preço de venda inferior a 550 mil reais. No
+entanto,  o  casal  achou  que  essa  última  informação  não  era  compatível  com  o  gráfico
+obtido.    
+Com base no gráfico obtido, o menor preço, p (em mil reais), para o qual pelo menos 50%
+dos apartamentos apresenta preço inferior a p é
+## A
+600.
+## B
+## C
+700.
+800.
+## D
+900.
+## E
+1 000.",26
+2021,Matemática e suas Tecnologias,MT,AZUL,899,152,"Para  a  comunicação  entre  dois  navios  é  utilizado  um  sistema  de  codificação  com
+base  em  valores  numéricos.  Para  isso,  são  consideradas  as  operações  triângulo 
+estrela 
+,  definidas  sobre  o  conjunto  dos  números  reais  por 
+  e
+  e 
+.
+O navio que deseja enviar uma mensagem deve fornecer um valor de entrada b, que
+irá  gerar  um  valor  de  saída,  a  ser  enviado  ao  navio  receptor,  dado  pela  soma  das  duas
+maiores  soluções  da  equação 
+.  Cada  valor  possível  de  entrada  e
+saída representa uma mensagem diferente já conhecida pelos dois navios.
+Um navio deseja enviar ao outro a mensagem ""ATENÇÃO!"". Para isso, deve utilizar o
+valor de entrada b = 1.
+Dessa forma, o valor recebido pelo navio receptor será
+## A
+## B
+## C
+## D
+## E",21
+2021,Matemática e suas Tecnologias,MT,AZUL,899,153,"Um  parque  temático  brasileiro  construiu  uma  réplica  em  miniatura  do  castelo  de
+Liechtenstein.  O  castelo  original,  representado  na  imagem,  está  situado  na  Alemanha  e
+foi  reconstruído  entre  os  anos  de  1840  e  1842,  após  duas  destruições  causadas  por
+guerras.
+O  castelo  possui  uma  ponte  de  38,4  m  de  comprimento  e  1,68  m  de  largura.  O
+artesão  que  trabalhou  para  o  parque  produziu  a  réplica  do  castelo,  em  escala.  Nessa
+obra, as medidas do comprimento e da largura da ponte eram, respectivamente, 160 cm e
+7 cm.
+A escala utilizada para fazer a réplica é
+## A
+1 : 576
+## B
+## C
+1 : 240
+1 : 24
+## D
+1 : 4,2
+## E
+1 : 2,4",11
+2021,Matemática e suas Tecnologias,MT,AZUL,899,154,"A  demografia  médica  é  o  estudo  da  população  de  médicos  no  Brasil  nos  aspectos
+quantitativo  e  qualitativo,  sendo  um    dos  seus  objetivos  fazer  projeções  sobre  a
+necessidade da formação de novos médicos. Um desses estudos gerou um conjunto de
+dados que aborda a evolução do número de médicos e da população brasileira por várias
+décadas. O quadro apresenta parte desses dados.
+Segundo  uma  projeção  estatística,  a  variação  do  número  de  médicos  e  o  da
+população brasileira de  2010 para 2020 será a média entre a variação de 1990 para 2000
+e  a  de  2000  para  2010.  Com  o  resultado  dessa  projeção,  determina-se  o  número  de
+médicos por mil habitantes no ano de 2020.  
+Disponível em: www.cremesp.org.br. Acesso em: 24 jun. 2015 (adaptado).
+O  número,  com  duas  casas  na  parte  decimal,  mais  próximo  do  número  de  médicos  por
+mil habitantes no ano de 2020 seria de
+## A
+0,17.
+## B
+## C
+0,49.
+1,71.
+## D
+2,06.
+## E
+3,32.",24
+2021,Matemática e suas Tecnologias,MT,AZUL,899,155,"Um  atleta  produz  sua  própria  refeição  com  custo  fixo  de  R$  10,00.  Ela  é  composta
+por  400  g  de  frango,  600  g  de  batata-doce  e  uma  hortaliça.  Atualmente,  os  preços  dos
+produtos para essa refeição são:
+Em relação a esses preços, haverá um aumento de 50% no preço do quilograma de
+batata-doce, e os outros preços não serão alterados. O atleta deseja manter o custo da
+refeição,  a  quantidade  de  batata-doce  e  a  hortaliça.  Portanto,  terá  que  reduzir  a
+quantidade de frango.
+Qual  deve  ser  a  redução  percentual  da  quantidade  de  frango  para  que  o  atleta  alcance
+seu objetivo?
+## A
+12,5
+## B
+## C
+28,0
+30,0
+## D
+50,0
+## E
+70,0",18
+2021,Matemática e suas Tecnologias,MT,AZUL,899,156,"Uma  mola  é  solta  da  posição  distendida  conforme  a  figura.  A  figura  à  direita 
+representa  o  gráfico  da  posição P (em cm) da massa m  em  função  do  tempo  t  (em
+segundo)  em  um  sistema  de  coordenadas  cartesianas.  Esse  movimento  periódico  é
+descrito  por  uma  expressão  do  tipo  P(t) = ± A cos (ωt) ou P(t) = ± A sen (ωt), em  que
+A > 0 é  a  amplitude de deslocamento máximo e ω é a frequência, que se relaciona com
+o período T pela fórmula ω = 
+.
+Considere a ausência de quaisquer forças dissipativas.
+A expressão algébrica que representa as posições P(t) da massa m, ao longo do tempo,
+no gráfico, é
+– 3 cos (2t)
+– 3 sen (2t)
+3 cos (2t)
+– 6 cos (2t)
+6 sen (2t)
+## A
+## B
+## C
+## D
+## E",20
+2021,Matemática e suas Tecnologias,MT,AZUL,899,157,"Uma  construtora,  pretendendo    investir    na    construção    de    imóveis    em    uma 
+metrópole      com  cinco    grandes  regiões,  fez    uma    pesquisa    sobre  a  quantidade    de 
+famílias que  mudaram de  uma região para outra, de modo  a  determinar  qual região  foi
+o destino  do  maior  fluxo  de  famílias,  sem levar em consideração o número de famílias
+região.  Os  valores  da  pesquisa  estão  dispostos  em  uma
+que  deixaram  a 
+matriz A  =  [a ],  i,  j  ∈  {1,2,3,4,5},  em  que  o  elemento  a corresponde  ao  total  de  famílias
+(em dezena) que se mudaram da região i para a região j durante um certo período, e o
+elemento a  é considerado nulo, uma vez que somente são consideradas mudanças entre
+regiões distintas. A seguir, está apresentada a matriz com os dados da pesquisa.
+ij 
+ii
+ij
+Qual região foi selecionada para o investimento da construtora?
+## A
+## B
+## C
+## D
+## E
+1
+2
+3
+4
+5",4
+2021,Matemática e suas Tecnologias,MT,AZUL,899,158,"Para  realizar  um  voo  entre  duas  cidades  que  distam  2  000  km  uma  da  outra,  uma
+companhia  aérea  utilizava  um  modelo  de  aeronave  A,  capaz  de  transportar  até
+200 passageiros. Quando uma dessas aeronaves está lotada de passageiros, o consumo
+de combustível é de 0,02 litro por quilômetro e por passageiro. Essa companhia resolveu
+trocar o modelo de aeronave A pelo modelo de aeronave B, que é capaz de transportar
+10%  de  passageiros  a  mais  do  que  o  modelo  A,  mas  consumindo  10%  menos
+combustível por quilômetro e por passageiro.
+A  quantidade  de  combustível  consumida  pelo  modelo  de  aeronave  B,  em  relação  à  do
+modelo de aeronave A, em um voo lotado entre as duas cidades, é
+## A
+10% menor.
+1% menor.
+## B
+## C
+igual.
+## D
+1% maior.
+## E
+11% maior.",16
+2021,Matemática e suas Tecnologias,MT,AZUL,899,159,"Em  uma  corrida  automobilística,  os  carros  podem  fazer  paradas  nos  boxes  para
+efetuar trocas de pneus. Nessas trocas, o trabalho é feito por um grupo de três pessoas
+em cada pneu. Considere que os grupos iniciam o trabalho no mesmo instante, trabalham
+à  mesma  velocidade  e  cada  grupo  trabalha  em  um  único  pneu.  Com  os  quatro  grupos
+completos,  são  necessários  4  segundos  para  que  a  troca  seja  efetuada.  O  tempo  gasto
+por  um  grupo  para  trocar  um  pneu  é  inversamente  proporcional  ao  número  de  pessoas
+trabalhando nele. Em uma dessas paradas, um dos trabalhadores passou mal, não pôde
+participar  da  troca  e  nem  foi  substituído,  de  forma  que  um  dos  quatro  grupos  de  troca
+ficou reduzido.
+Nessa  parada  específica,  com  um  dos  grupos  reduzido,  qual  foi  o  tempo  gasto,  em
+segundo, para trocar os quatro pneus?
+## A
+6,0
+## B
+## C
+5,7
+5,0
+## D
+4,5
+## E
+4,4",16
+2021,Matemática e suas Tecnologias,MT,AZUL,899,160,"Um  nutricionista  verificou,  na  dieta  diária  do  seu  cliente,  a  falta  de  800  mg  do
+mineral A, de 1 000 mg do mineral B e de 1 200 mg do mineral C. Por isso, recomendou a
+compra  de  suplementos  alimentares  que  forneçam  os  minerais  faltantes  e  informou  que
+não haveria problema se consumisse mais desses minerais do que o recomendado.
+O cliente encontrou cinco suplementos, vendidos em sachês unitários, cujos preços e
+as quantidades dos minerais estão apresentados a seguir:
+Suplemento  I:  contém    50  mg  do  mineral  A,  100  mg  do  mineral  B  e  200  mg  do
+mineral C e custa R$ 2,00;
+mineral C e custa R$ 3,00;
+mineral C e custa R$ 5,00;
+mineral C e custa R$ 6,00;
+mineral C e custa R$ 8,00.
+Suplemento  II:  contém  800  mg  do  mineral  A,  250  mg  do  mineral  B  e  200  mg  do
+Suplemento III: contém 250 mg do mineral A, 1 000 mg do mineral B e 300 mg do
+Suplemento IV: contém 600 mg do mineral A, 500 mg do mineral B e 1 000 mg do
+Suplemento V: contém 400 mg do mineral A, 800 mg do mineral B e 1 200 mg do
+O cliente decidiu comprar sachês de um único suplemento no qual gastasse menos
+dinheiro  e  ainda  suprisse  a  falta  de  minerais  indicada  pelo  nutricionista,  mesmo  que
+consumisse alguns deles além de sua necessidade.
+Nessas condições, o cliente deverá comprar sachês do suplemento
+## A
+## I.
+## B
+## C
+## II.
+## III.
+## D
+## IV.
+## E
+## V.",17
+2021,Matemática e suas Tecnologias,MT,AZUL,899,161,"O administrador de um teatro percebeu que, com o ingresso do evento a R$ 20,00,
+um show conseguia atrair 200 pessoas e que, a cada  R$ 1,00 de redução no preço do
+ingresso,  o  número  de  pessoas  aumentava  em  40.  Ele  sabe  que  os  donos  do  teatro  só
+admitem 
+ingressos,  pela  dificuldade  de
+inteiros  para  os 
+disponibilizar  troco,  e  pretende  convencê-los  a  diminuir  o  preço  do  ingresso.  Assim,
+trabalhar  com  valores 
+apresentará um gráfico da arrecadação em função do valor do desconto no preço atual do
+ingresso.
+O gráfico que mais se assemelha ao que deve ser elaborado pelo administrador é
+## A
+## B
+## C
+## D
+## E",15
+2021,Matemática e suas Tecnologias,MT,AZUL,899,162,"O  quadro  representa  a  relação  entre  o  preço  de  um  produto  (R)  e  seu  respectivo
+imposto devido (I).
+O gráfico que melhor representa essa relação é
+## A
+## B
+## C
+## D
+## E",15
+2021,Matemática e suas Tecnologias,MT,AZUL,899,163,"A  relação  de  Newton-Laplace  estabelece  que  o  módulo  volumétrico  de  um  fluido  é
+diretamente proporcional ao quadrado da velocidade do som (em metro por segundo) no
+fluido  e  à  sua  densidade  (em  quilograma  por  metro  cúbico),  com  uma  constante  de
+proporcionalidade adimensional.
+Nessa relação, a unidade de medida adequada para o módulo volumétrico é
+## A
+## B
+## C
+## D
+## E
+kg⋅m ⋅s−2 −1
+kg⋅m ⋅s−1 −2
+kg⋅m ⋅s−5 2
+−1
+2
+kg ⋅m  ⋅s
+1
+−1
+kg ⋅m  ⋅s
+5
+−2",10
+2021,Matemática e suas Tecnologias,MT,AZUL,899,164,"Uma pessoa pretende viajar por uma companhia aérea que despacha gratuitamente
+uma mala com até 10 kg.
+Em duas viagens que realizou, essa pessoa utilizou a mesma mala e conseguiu 
+10 kg com as seguintes combinações de itens:
+Para  ter  certeza  de  que  sua  bagagem  terá  massa  de  10  kg,  ela  decide  levar  essa
+mala  com  duas  calças,  um  sapato  e  o  máximo  de  camisetas,  admitindo  que  itens  do
+mesmo tipo têm a mesma massa.
+Qual a quantidade máxima de camisetas que essa pessoa poderá levar?
+## A
+22
+## B
+## C
+24
+26
+## D
+33
+## E
+39",22
+2021,Matemática e suas Tecnologias,MT,AZUL,899,165,"Um  automóvel  apresenta  um  desempenho  médio  de  16  km/L.  Um  engenheiro
+desenvolveu  um  novo  motor  a  combustão  que  economiza,  em  relação  ao  consumo  do
+motor anterior, 0,1 L de combustível a cada 20 km percorridos.
+O valor do desempenho médio do automóvel com o novo motor, em quilômetro por litro,
+expresso com uma casa decimal, é
+## A
+15,9.
+## B
+## C
+16,1.
+16,4.
+## D
+17,4.
+## E
+18,0.",12
+2021,Matemática e suas Tecnologias,MT,AZUL,899,166,"O  projeto  de  um  contêiner,  em  forma  de  paralelepípedo  reto  retangular,  previa  a
+pintura  dos  dois  lados  (interno  e  externo)  de  cada  uma  das  quatro  paredes  com  tinta
+acrílica  e  a  pintura  do  piso  interno  com  tinta  epóxi.  O  construtor  havia  pedido,  a  cinco
+fornecedores diferentes, orçamentos das tintas necessárias, mas, antes de iniciar a obra,
+resolveu  mudar  o  projeto  original,  alterando  o  comprimento  e  a  largura  para  o  dobro  do
+originalmente  previsto,  mantendo  inalterada  a  altura.  Ao  pedir  novos  orçamentos  aos
+fornecedores,  para  as  novas  dimensões,  cada  um  deu  uma  resposta  diferente  sobre  as
+novas quantidades de tinta necessárias.
+Em  relação  ao  previsto  para  o  projeto  original,  as  novas  quantidades  de  tinta
+necessárias informadas pelos fornecedores foram as seguintes:
+Fornecedor I: “O dobro, tanto para as paredes quanto para o piso.”
+Fornecedor II: “O dobro para as paredes e quatro vezes para o piso.”
+Fornecedor III: “Quatro vezes, tanto para as paredes quanto para o piso.”
+Fornecedor IV: “Quatro vezes para as paredes e o dobro para o piso.”
+Fornecedor V: “Oito vezes para as paredes e quatro vezes para o piso.”
+Analisando  as 
+informações  dos 
+fornecedores,  o  construtor  providenciará  a
+quantidade adequada de material. Considere a porta de acesso do contêiner como parte
+de uma das paredes.
+Qual dos fornecedores prestou as informações adequadas, devendo ser o escolhido pelo
+construtor para a aquisição do material?
+## A
+## I
+## B
+## C
+## II
+## III
+## D
+## IV
+## E
+## V",9
+2021,Matemática e suas Tecnologias,MT,AZUL,899,167,"Um  povoado  com  100  habitantes  está  passando  por  uma  situação  de  seca
+prolongada  e  os  responsáveis  pela  administração  pública  local  decidem  contratar  a
+construção  de  um  reservatório.  Ele  deverá  ter  a  forma  de  um  cilindro  circular  reto,  cuja
+base tenha 5 metros de diâmetro interno, e atender à demanda de água da população por
+um período de exatamente sete dias consecutivos. No oitavo dia, o reservatório vazio é
+completamente reabastecido por carros-pipa.
+Considere que o consumo médio diário por habitante é de 120 litros de água. Use 3
+como aproximação para 
+.
+Nas condições apresentadas, o reservatório deverá ser construído com uma altura interna
+mínima, em metro, igual a
+## A
+1,12.
+## B
+## C
+3,10.
+4,35.
+## D
+4,48.
+## E
+5,60.",14
+2021,Matemática e suas Tecnologias,MT,AZUL,899,168,"Num  octaedro  regular,  duas  faces  são  consideradas  opostas  quando  não  têm  nem
+arestas,  nem  vértices  em  comum.  Na  figura,  observa-se  um  octaedro  regular  e  uma  de
+suas  planificações,  na  qual  há  uma  face  colorida  na  cor  cinza  escuro  e  outras  quatro
+faces numeradas.
+Qual(is)  face(s)  ficará(ão)  oposta(s)  à  face  de  cor  cinza  escuro,  quando  o  octaedro  for
+reconstruído a partir da planificação dada?
+## A
+1, 2, 3 e 4
+1 e 3
+## B
+## C
+## D
+## E
+1
+2
+4",7
+2021,Matemática e suas Tecnologias,MT,AZUL,899,169,"O  instrumento  de  percussão  conhecido  como  triângulo  é  composto  por  uma  barra
+fina de aço, dobrada em um formato que se assemelha a um triângulo, com uma abertura
+e uma haste, conforme ilustra a Figura 1.
+Uma  empresa  de  brindes  promocionais  contrata  uma  fundição  para  a  produção  de
+miniaturas  de  instrumentos  desse  tipo.  A  fundição  produz,  inicialmente,  peças  com  o
+formato  de  um  triângulo  equilátero  de  altura  h,  conforme  ilustra  a  Figura  2.  Após  esse
+processo, cada peça é aquecida, deformando os cantos, e cortada em um dos vértices,
+dando origem à miniatura. Assuma que não ocorram perdas de material no processo de
+produção,  de  forma  que  o  comprimento  da  barra  utilizada  seja  igual  ao  perímetro  do
+triângulo equilátero representado na Figura 2.
+Considere 1,7 como valor aproximado para 
+.
+Nessas condições, o valor que mais se aproxima da medida do comprimento da barra, em
+centímetro, é
+## A
+9,07.
+## B
+## C
+13,60.
+20,40.
+## D
+27,18.
+## E
+36,24.",8
+2021,Matemática e suas Tecnologias,MT,AZUL,899,170,"Uma pessoa comprou uma caneca para tomar sopa, conforme ilustração.
+Sabe-se  que  1  cm   =  1  mL  e  que  o  topo  da  caneca  é  uma  circunferência  de
+3
+diâmetro (D) medindo 10 cm, e a base é um círculo de diâmetro (d) medindo 8 cm. Além
+disso, sabe-se que a altura (h)  dessa caneca mede  12  cm  (distância entre o centro das
+circunferências do topo e da base).
+Utilize 3 como aproximação para π.
+Qual é a capacidade volumétrica, em mililitro, dessa caneca? 
+## A
+216
+## B
+## C
+408
+732
+## D
+2 196
+## E
+2 928",8
+2021,Matemática e suas Tecnologias,MT,AZUL,899,171,"O dono de uma loja pretende usar cartões imantados para a divulgação de sua loja.
+A empresa que fornecerá o serviço lhe informa que o custo de fabricação do cartão é de
+R$  0,01  por  centímetro  quadrado  e  que  disponibiliza  modelos  tendo  como  faces  úteis
+para impressão:
+um triângulo equilátero de lado 12 cm;
+um quadrado de lado 8 cm;
+um retângulo de lados 11 cm e 8 cm;
+um hexágono regular de lado 6 cm;
+um círculo de diâmetro 10 cm.
+O dono da loja está disposto a pagar, no máximo, R$ 0,80 por cartão. Ele escolherá,
+dentro desse limite de preço, o modelo que tiver maior área de impressão.
+Use 3 como aproximação para 
+e use 1,7 como aproximação para 
+.
+Nessas condições, o modelo que deverá ser escolhido tem como face útil para impressão
+um
+## A
+triângulo.
+## B
+## C
+quadrado.
+retângulo.
+## D
+hexágono.
+## E
+círculo.",13
+2021,Matemática e suas Tecnologias,MT,AZUL,899,172,"Um ciclista amador de 61 anos de idade utilizou um monitor cardíaco para medir suas
+frequências  cardíacas  em  quatro  diferentes  tipos  de  trechos  do  percurso.  Os  resultados
+das frequências cardíacas máximas alcançadas nesses trechos foram:
+Sabe-se que a faixa aeróbica ideal para o ganho de condicionamento físico é entre
+65% e 85% da frequência cardíaca máxima (Fc máx.), que, por sua vez, é determinada
+pela fórmula:
+Fc máx. = 220 – idade,
+em que a idade é dada em ano e Fc máx. é dada em bpm (batimento por minuto). 
+Os trechos do percurso nos quais esse ciclista se mantém dentro de sua faixa aeróbica
+ideal, para o ganho de condicionamento físico, são
+## A
+leve no plano, forte no plano, subida moderada e subida forte.
+## B
+## C
+leve no plano, forte no plano e subida moderada.
+forte no plano, subida moderada e subida forte.
+## D
+forte no plano e subida moderada.
+## E
+leve no plano e subida forte.",4
+2021,Matemática e suas Tecnologias,MT,AZUL,899,173,"Um  lava-rápido  oferece  dois  tipos  de  lavagem  de  veículos:  lavagem  simples,  ao
+preço de R$ 20,00, e lavagem completa, ao preço de R$ 35,00. Para cobrir as despesas
+com produtos e funcionários, e não ter prejuízos, o lava-rápido deve ter uma receita diária
+de, pelo menos, R$ 300,00.
+Para  não  ter  prejuízo, o  menor  número de  lavagens  diárias  que o lava-rápido deve
+efetuar é
+## A
+6.
+## B
+## C
+8.
+9.
+## D
+15.
+## E
+20.",4
+2021,Matemática e suas Tecnologias,MT,AZUL,899,174,"Após  consulta  médica,  um  paciente  deve  seguir  um  tratamento  composto  por  três
+medicamentos:  X,  Y  e  Z.  O  paciente,  para  adquirir  os  três  medicamentos,  faz  um
+orçamento em três farmácias diferentes, conforme o quadro.
+Dessas farmácias algumas oferecem  descontos:
+na  compra  dos  medicamentos  X  e  Y  na  Farmácia  2,  recebe-se  um  desconto  de
+20% em ambos os produtos, independentemente da compra do medicamento Z, e
+não há desconto para o medicamento Z;
+na  compra  dos  3  medicamentos  na  Farmácia  3,  recebe-se  20%  de  desconto  no
+valor total da compra.
+O  paciente  deseja  efetuar  a  compra  de  modo  a  minimizar  sua  despesa  com  os
+medicamentos.
+De acordo com as informações fornecidas, o paciente deve comprar os medicamentos da
+seguinte forma:
+## A
+X, Y e Z na Farmácia 1.
+## B
+## C
+X e Y na Farmácia 1, e Z na Farmácia 3.
+X e Y na Farmácia 2, e Z na Farmácia 3.
+## D
+X na Farmácia 2, e Y e Z na Farmácia 3.
+## E
+X, Y e Z na Farmácia 3.",5
+2021,Matemática e suas Tecnologias,MT,AZUL,899,175,"Muitos  brinquedos  que  frequentemente  são  encontrados  em  praças  e  parques
+públicos  apresentam  formatos  de  figuras  geométricas  bidimensionais  e  tridimensionais.
+Uma empresa foi contratada para desenvolver uma nova forma de brinquedo. A proposta
+apresentada  pela  empresa  foi  de  uma  estrutura  formada  apenas  por  hastes  metálicas,
+conectadas umas às outras, como apresentado na figura. As hastes de mesma tonalidade
+e espessura são congruentes.
+Com base na proposta apresentada, quantas figuras geométricas planas de cada tipo são
+formadas pela união das hastes?
+## A
+12 trapézios isósceles e 12 quadrados.
+## B
+## C
+24 trapézios isósceles e 12 quadrados.
+12 paralelogramos e 12 quadrados.
+## D
+8 trapézios isósceles e 12 quadrados.
+## E
+12 trapézios escalenos e 12 retângulos.",7
+2021,Matemática e suas Tecnologias,MT,AZUL,899,176,"O  sistema  de  numeração  romano  ainda  é  utilizado  na  indicação  de  capítulos  e
+volumes de livros, na designação de séculos e, em ordem cronológica, de papas e reis de
+mesmo nome. São utilizadas sete letras do alfabeto: 
+Quatro fundamentais: I (vale 1); X (vale 10); C (vale 100) e M (vale 1 000). 
+Três secundárias: V (vale 5); L (vale 50) e D (vale 500).
+As regras para escrever números romanos são:
+1. Não existe símbolo correspondente ao zero;
+2. Os símbolos fundamentais podem ser repetidos até três vezes e seus valores são
+adicionados. Exemplo: XXX = 30;
+3. Uma letra posta à esquerda de outra de maior valor indica subtração dos respectivos
+valores. Exemplo: IX = 10 – 1 = 9;
+4. Uma letra posta à direita de outra de maior valor indica adição dos respectivos valores.
+Exemplo: XI = 10 + 1 = 11.
+Em uma cidade europeia há uma placa indicando o ano de sua fundação: MCDLXIX.
+Quantos anos de fundação essa cidade comemorará em 2050?
+## A
+379
+## B
+## C
+381
+579
+## D
+581
+## E
+601",1
+2021,Matemática e suas Tecnologias,MT,AZUL,899,177,"Uma  das  bases  mais  utilizadas  para  representar  um  número  é  a  base  decimal.
+Entretanto,  os  computadores  trabalham  com  números  na  base  binária.  Nessa  base,
+qualquer  número  natural  é  representado  usando  apenas  os  algarismos  0  e  1.  Por
+exemplo,  as  representações  dos  números  9  e  12,  na  base  binária,  são  1001  e  1100,
+respectivamente. A operação de adição, na base binária, segue um algoritmo similar ao
+utilizado na base decimal, como detalhado no quadro:
+Por  exemplo,  na  base  binária,  a  soma  dos  números  10  e  10  é  100,  como
+apresentado:
+Considerando as informações do texto, o resultado da adição 9 + 12 será representado,
+na base binária, por
+## A
+101.
+## B
+## C
+1101.
+1111.
+## D
+10101.
+## E
+11001.",1
+2021,Matemática e suas Tecnologias,MT,AZUL,899,178,"Uma unidade de medida comum usada para expressar áreas de terrenos de grandes
+dimensões  é  o  hectare,  que  equivale  a  10  000  m .  Um  fazendeiro  decide  fazer  um
+2
+loteamento utilizando 3 hectares de sua fazenda, dos quais 0,9 hectare será usado para a
+2
+construção de ruas e calçadas e o restante será dividido em terrenos com área de 300 m
+cada um. Os 20 primeiros terrenos vendidos terão preços promocionais de R$ 20 000,00
+cada, e os demais, R$ 30 000,00 cada.
+Nas condições estabelecidas, o valor total, em real, obtido pelo fazendeiro com a venda
+de todos os terrenos será igual a
+## A
+700 000.
+## B
+## C
+1 600 000.
+1 900 000.
+## D
+2 200 000.
+## E
+2 800 000.",3
+2021,Matemática e suas Tecnologias,MT,AZUL,899,179,"Uma  pessoa  produzirá  uma  fantasia  utilizando  como  materiais:  2  tipos  de  tecidos
+diferentes e 5 tipos distintos de pedras ornamentais. Essa pessoa tem à sua disposição
+6 tecidos diferentes e 15 pedras ornamentais distintas.
+A  quantidade  de  fantasias  com  materiais  diferentes  que  podem  ser  produzidas  é
+representada pela expressão
+## A
+## B
+## C
+## D
+## E",2
+2021,Matemática e suas Tecnologias,MT,AZUL,899,180,"Os diretores de uma escola precisam construir um laboratório para uso dos alunos.
+Há duas possibilidades:
+(i)  um  laboratório  do  tipo  A,  com  capacidade  para  100  usuários,  a  um  custo  de
+180 mil reais e gastos de 60 mil reais por ano para manutenção;
+(ii) um laboratório do tipo B, com capacidade para 80 usuários, a um custo de 120 mil 
+reais e gastos com manutenção de 16 mil reais por ano.
+Considera-se  que,  em  qualquer  caso,  o  laboratório  implantado  será  utilizado  na
+totalidade de sua capacidade.
+A economia da escola, na utilização de um laboratório tipo B, em vez de um laboratório
+tipo A, num período de 4 anos, por usuário, será de
+## A
+1,31 mil reais.
+## B
+## C
+1,90 mil reais.
+2,30 mil reais.
+## D
+2,36 mil reais.
+## E
+2,95 mil reais.",3
+2020,Matemática e suas Tecnologias,MT,AZUL,695,136,"O gráfico mostra o resultado do balanço financeiro mensal de uma empresa ao longo de
+um ano.
+Em  quantos  meses  o  resultado  do  balanço  financeiro  da  empresa  ficou  abaixo  da  média
+mensal nesse ano?
+## A
+## B
+## C
+## D
+## E
+6
+7
+8
+9
+10",27
+2020,Matemática e suas Tecnologias,MT,AZUL,695,137,"Uma editora pretende fazer uma reimpressão de um de seus livros. A direção da editora
+sabe que o gasto com papel representa 60% do custo de reimpressão, e que as despesas com
+a gráfica representam os 40% restantes. Dentro da programação da editora, no momento em
+que  ela  realizar  a  reimpressão,  o  preço  do  papel  e  os  custos  com  a  gráfica  terão  sofrido
+reajustes de 25,9% e 32,5%, respectivamente. O custo para a reimpressão de cada livro, nos
+preços atuais, é de R$ 100,00.
+Qual será o custo, em real, para a reimpressão de cada livro com os reajustes estimados de
+custo de papel e despesas com a gráfica?
+## A
+## B
+## C
+## D
+## E
+128,54
+129,20
+129,86
+158,40
+166,82",16
+2020,Matemática e suas Tecnologias,MT,AZUL,695,138,"Com  a  crise  dos  alimentos  em  2008,  governantes  e  empresários  de  várias  partes  do
+mundo  relacionaram  a  expansão  dos  biocombustíveis  com  a  alta  do  preço  da  comida.  Em
+2006, a produção mundial de etanol foi de 40 bilhões de litros e a de biodiesel, de 6,5 bilhões.
+Os  EUA  defendem  seu  etanol  de  milho  ao  afirmar  que  só  3%  da  inflação  dos  cereais  é
+causada  pelos  biocombustíveis.  Para  a  Organização  das  Nações  Unidas  (ONU),  os
+biocombustíveis respondem por 10% da alta do preço da comida e, para o Banco Mundial, por
+75%. Ao lado dessa polêmica, cresce o consenso de que biocombustível não é sempre igual.
+O  impacto  sobre  o  preço  dos  alimentos  é  bem  diferente  quando  se  considera  o  álcool
+combustível  brasileiro,  feito  da  cana;  o  etanol  norte-americano,  fabricado  com  milho;  e  o
+biodiesel europeu, feito de grãos como o trigo, por exemplo. Nessa disputa, o Brasil está bem
+posicionado. O mapa seguinte mostra a distribuição percentual de etanol fabricado no mundo,
+em 2007.
+De acordo com o texto e o mapa de percentuais de fabricação de etanol fabricado no mundo,
+podemos concluir que a quantidade de etanol feito de milho, nos Estados Unidos, representa
+Disponível em: planetasustentavel.abril.com.br. Acesso em: 29 mar. 2009.
+## A
+## B
+## C
+## D
+## E
+16,25% da produção mundial.
+43,70% da produção mundial.
+46,00% da produção mundial.
+75,00% da produção mundial.
+95,00% da produção mundial.",1
+2020,Matemática e suas Tecnologias,MT,AZUL,695,139,"Realizou-se um estudo sobre a violência no Brasil. As taxas obtidas para os homicídios de
+mulheres de 1980 a 2010 estão registradas no gráfico.
+De acordo com os dados apresentados, o aumento percentual relativo da taxa de 2007 para
+2010 foi mais próximo de
+Disponível em: http://g1.globo.com. Acesso em: 15 ago. 2013 (adaptado).
+## A
+## B
+## C
+## D
+## E
+11%.
+13%.
+17%.
+50%.
+89%.",25
+2020,Matemática e suas Tecnologias,MT,AZUL,695,140,"Eduardo  deseja  criar  um  e-mail  utilizando  um  anagrama  exclusivamente  com  as  sete
+letras que compõem o seu nome, antes do símbolo @ .
+O  e-mail  terá  a  forma  *******@site.com.br  e  será  de  tal  modo  que  as  três  letras  “edu”
+apareçam sempre juntas e exatamente nessa ordem.
+Ele sabe que o e-mail eduardo@site.com.br já foi criado por outro usuário e que qualquer
+outro agrupamento das letras do seu nome forma um e-mail que ainda não foi cadastrado.
+De quantas maneiras Eduardo pode criar um e-mail desejado?
+## A
+## B
+## C
+## D
+## E
+59
+60
+118
+119
+120",3
+2020,Matemática e suas Tecnologias,MT,AZUL,695,141,"Na  central  nuclear  de  Angra  dos  Reis,  os  resíduos  produzidos  em  duas  décadas  de
+operações  somam  quase  446  toneladas  de  combustível  usado,  que  permanecerá  radioativo
+durante milhares de anos. O Ibama condicionou o início da operação de Angra 3, previsto para
+2014,  à  aprovação  de  um  projeto  de  depósito  definitivo.  A  Comissão  Nacional  de  Energia
+Nuclear  (CNEN)  se  comprometeu  a  apresentar,  até  2010,  um  modelo  de  depósito  para
+armazenar o lixo radioativo por 500 anos, em vez de milhares de anos.
+Época, 8 set. 2008 (adaptado).
+Supondo que a taxa de produção de combustível permaneça constante e que seja necessário
+certo  volume  V  para  o  armazenamento  das  446  toneladas  já  produzidas,  qual  é  o  volume
+mínimo aproximado que um depósito deve ter para armazenar o lixo radioativo produzido em
+500 anos?
+## A
+## B
+## C
+## D
+## E
+## 25 V
+## 149 V
+## 1 340 V
+## 11 150 V
+## 14 887 V",18
+2020,Matemática e suas Tecnologias,MT,AZUL,695,142,"Para  sua  festa  de  17  anos,  o  aniversariante  convidará  132  pessoas.  Ele  convidará  26
+mulheres  a  mais  do  que  o  número  de  homens.  A  empresa  contratada  para  realizar  a  festa
+cobrará  R$  50,00  por  convidado  do  sexo  masculino  e  R$  45,00  por  convidado  do  sexo
+feminino.
+Quanto esse aniversariante terá que pagar, em real, à empresa contratada, pela quantidade de
+homens convidados para sua festa?
+## A
+## B
+## C
+## D
+## E
+2 385,00
+2 650,00
+3 300,00
+3 950,00
+5 300,00",21
+2020,Matemática e suas Tecnologias,MT,AZUL,695,143,"Com  base  na  Lei  Universal  da  Gravitação,  proposta  por  Isaac  Newton,  o  peso  de  um
+objeto  na  superfície  de  um  planeta  aproximadamente  esférico  é  diretamente  proporcional  à
+massa do planeta e inversamente proporcional ao quadrado do raio desse planeta. A massa
+do  planeta  Mercúrio  é,  aproximadamente, 
+da  massa  da  Terra  e  seu  raio  é,
+aproximadamente, 
+peso P.
+ do raio da Terra. Considere um objeto que, na superfície da Terra, tenha
+O peso desse objeto na superfície de Mercúrio será igual a
+## A
+## B
+## C
+## D
+## E",15
+2020,Matemática e suas Tecnologias,MT,AZUL,695,144,"O  gráfico  mostra  as  receitas  e  as  despesas  de  uma  empresa  nos  meses  de  julho  a
+novembro  de  um  ano.  O  resultado  financeiro,  obtido  pela  diferença  entre  receita  e  despesa,
+pode ser positivo (lucro) ou negativo (prejuízo).
+Sabendo que o mês de dezembro é, em geral, de melhores vendas, o dono da empresa
+faz uma previsão de que a receita naquele mês terá um aumento, em relação ao mês anterior,
+com a mesma taxa de crescimento ocorrida de setembro para outubro, e que a despesa irá se
+manter a mesma de novembro.
+Se  confirmadas  as  previsões  do  dono  da  empresa,  o  resultado  financeiro  a  ser  obtido  no
+semestre de julho a dezembro será um
+## A
+## B
+## C
+## D
+## E
+prejuízo de R$ 2 650,00.
+prejuízo de  R$ 850,00.
+lucro de R$ 7 150,00.
+lucro de R$ 5 950,00.
+lucro de R$ 350,00.",24
+2020,Matemática e suas Tecnologias,MT,AZUL,695,145,"É  comum  as  cooperativas  venderem  seus  produtos  a  diversos  estabelecimentos.  Uma
+cooperativa láctea destinou 4 m3 de leite,  do  total produzido,  para  análise  em um laboratório
+da região, separados igualmente em 4 000 embalagens de mesma capacidade.
+Qual o volume de leite, em mililitro, contido em cada embalagem?
+## A
+## B
+## C
+## D
+## E
+0,1
+1,0
+10,0
+100,0
+1 000,0",10
+2020,Matemática e suas Tecnologias,MT,AZUL,695,146,"Prever  a  dinâmica  populacional  de  um  país  é  de  extrema  importância,  pois  com  esse
+conhecimento  as  políticas  públicas  em  saúde,  educação,  habitação  e  infraestrutura  poderão
+ser executadas sem atraso e de forma eficiente. A linha cheia no gráfico mostra a evolução da
+população  brasileira  desde  1950  até  2010,  e  a  extrapolação  (previsão)  até  o  ano  2050,
+representada pela linha tracejada, foi feita com base nos censos demográficos realizados até
+2010.
+Pelo gráfico apresentado, o intervalo em que se observa aumento da população é
+Fonte: IBGE. Projeção da população do Brasil, 2010.
+## A
+## B
+## C
+## D
+## E
+1950 a 2010.
+1950 a 2040.
+1950 a 2050.
+2010 a 2040.
+2040 a 2050.",20
+2020,Matemática e suas Tecnologias,MT,AZUL,695,147,"Uma fatura mensal de água é composta por uma taxa fixa, independentemente do gasto,
+mais uma parte relativa ao consumo de água, em metro cúbico. O gráfico relaciona o valor da
+fatura com o volume de água gasto em uma residência no mês de novembro, representando
+uma semirreta.
+Observa-se  que,  nesse  mês,  houve  um  consumo  de  7  m3  de  água.  Sabe-se  que,  em
+dezembro, o consumo de água nessa residência, em metro cúbico, dobrou em relação ao mês
+anterior.
+O valor da fatura referente ao consumo no mês de dezembro nessa residência foi
+## A
+## B
+## C
+## D
+## E
+superior a R$ 65,00 e inferior a R$ 70,00.
+superior a R$ 80,00 e inferior a R$ 85,00.
+superior a R$ 90,00 e inferior a R$ 95,00.
+superior a R$ 95,00.
+inferior a R$ 55,00.",25
+2020,Matemática e suas Tecnologias,MT,AZUL,695,148,"Uma  pessoa  possuía  um  lote  com  área  de  300  m2.  Nele  construiu  sua  casa,  utilizando
+70%  do  lote  para  construção  da  residência  e  o  restante  para  área  de  lazer.  Posteriormente,
+adquiriu  um  novo  lote  ao  lado  do  de  sua  casa  e,  com  isso,  passou  a  dispor  de  um  terreno
+formado pelos dois lotes, cuja área mede 420 m2. Decidiu então ampliar a casa, de tal forma
+que ela ocupasse no mínimo 60% da área do terreno, sendo o restante destinado à área de
+lazer.
+O acréscimo máximo que a região a ser destinada à área de lazer no terreno poderá ter, em
+relação à área que fora utilizada para lazer no lote original, em metro quadrado, é
+## A
+## B
+## C
+## D
+## E
+12
+48
+78
+138
+168",13
+2020,Matemática e suas Tecnologias,MT,AZUL,695,149,"Uma  associação  desportiva  contratou  uma  empresa  especializada  para  construir  um
+campo  de  futebol,  em  formato  retangular,  com  250  metros  de  perímetro.  Foi  elaborada  uma
+planta para esse campo na escala 1 : 2 000.
+Na planta, a medida do perímetro do campo de futebol, em metro, é
+## A
+## B
+## C
+## D
+## E
+0,0005.
+0,125.
+8.
+250.
+500 000.",11
+2020,Matemática e suas Tecnologias,MT,AZUL,695,150,"Uma  empresa  deseja  construir  um  edifício  residencial  de  12  pavimentos,  num  lote
+retangular de lados medindo 22 e 26 m. Em 3 dos lados do lote serão construídos muros. A
+frente  do  prédio  será  sobre  o  lado  do  lote  de  menor  comprimento.  Sabe-se  que  em  cada
+pavimento 32 m2 serão destinados à área comum (hall de entrada, elevadores e escada), e o
+restante  da  área  será  destinado  às  unidades  habitacionais.  A  legislação  vigente  exige  que
+prédios  sejam  construídos  mantendo  distâncias  mínimas  dos  limites  dos  lotes  onde  se
+encontram.  Em  obediência  à  legislação,  o  prédio  ficará  5  m  afastado  da  rua  onde  terá  sua
+entrada, 3 m de distância do muro no fundo do lote e 4 m de distância dos muros nas laterais
+do lote, como mostra a figura.
+A área total, em metro quadrado, destinada às unidades habitacionais desse edifício será de
+## A
+## B
+## C
+## D
+## E
+2 640.
+3 024.
+3 840.
+6 480.
+6 864.",12
+2020,Matemática e suas Tecnologias,MT,AZUL,695,151,"O ganho real de um salário, r, é a taxa de crescimento do poder de compra desse salário.
+Ele é calculado a partir do percentual de aumento dos salários e da taxa de inflação, referidos
+a um mesmo período. Algebricamente, pode-se calcular o ganho real pela fórmula
+em  que  i  é  o  percentual  de  aumento  no  valor  dos  salários  e  f  é  a  taxa  de  inflação,  ambos
+referidos a um mesmo período.
+Considere que uma categoria de trabalhadores recebeu uma proposta de aumento salarial
+de  10%,  e  que  a  taxa  de  inflação  do  período  correspondente  tenha  sido  5%.  Para  avaliar  a
+proposta, os trabalhadores criaram uma classificação em função dos ganhos reais conforme o
+quadro.
+ Eles classificaram a proposta de aumento e justificaram essa classificação apresentando
+o valor do ganho real que obteriam.
+A classificação, com sua respectiva justificativa, foi
+## A
+## B
+## C
+## D
+## E
+inaceitável, porque o ganho real seria mais próximo de – 5%.
+ruim, porque o ganho real seria mais próximo de 1,05%.
+regular, porque o ganho real seria mais próximo de 4,7%.
+boa, porque o ganho real seria mais próximo de 9,5%.
+boa, porque o ganho real seria mais próximo de 5%.",17
+2020,Matemática e suas Tecnologias,MT,AZUL,695,152,"Uma empresa avaliou os cinco aparelhos de celulares (T1, T2, T3, T4 e T5) mais vendidos
+no  último  ano,  nos  itens:  câmera,  custo-benefí cio,  design,  desempenho  da  bateria  e  tela,
+representados por I1, I2, I3, I4 e I5, respectivamente. A empresa atribuiu notas de 0 a 10 para
+cada  item  avaliado  e  organizou  essas  notas  em  uma  matriz  A,  em  que  cada  elemento  aij
+significa  a  nota  dada  pela  empresa  ao  aparelho  Ti  no  item  Ij.  A  empresa  considera  que  o
+melhor  aparelho  de  celular  é  aquele  que  obtém  a  maior  soma  das  notas  obtidas  nos  cinco
+itens avaliados.
+Com  base  nessas  informações,  o  aparelho  de  celular  que  a  empresa  avaliou  como  sendo  o
+melhor é o
+## A
+## B
+## C
+## D
+## E
+## T1.
+## T2.
+## T3.
+## T4.
+## T5.",4
+2020,Matemática e suas Tecnologias,MT,AZUL,695,153,"Considere o guindaste mostrado nas figuras, em duas posições (1 e 2). Na posição  1,  o
+braço de movimentação forma um ângulo reto com o cabo de aço CB que sustenta uma esfera
+metálica na sua extremidade inferior.
+Na posição 2, o guindaste elevou seu braço de movimentação e o novo ângulo formado
+entre o braço e o cabo de aço ED, que sustenta a bola metálica, é agora igual a 60°.
+Assuma que os pontos A, B e C, na posição 1, formam o triângulo T1 e que os pontos A, D
+e E, na posição 2, formam o triângulo T2, os quais podem ser classificados em obtusângulo,
+retângulo ou acutângulo, e também em equilátero, isósceles ou escaleno.
+Segundo  as  classificações  citadas,  os  triângulos  T1  e  T2  são  identificados,  respectivamente,
+como
+## A
+## B
+## C
+## D
+## E
+retângulo escaleno e retângulo isósceles.
+acutângulo escaleno e retângulo isósceles.
+retângulo escaleno e acutângulo escaleno.
+acutângulo escaleno e acutângulo equilátero.
+retângulo escaleno e acutângulo equilátero.",7
+2020,Matemática e suas Tecnologias,MT,AZUL,695,154,"O  isopor  é  um  material  composto  por  um  polímero  chamado  poliestireno.  Todos  os
+produtos de isopor são 100% recicláveis, assim como os plásticos em sua totalidade. O gráfico
+mostra  a  quantidade  de  isopor,  em  tonelada,  que  foi  reciclada  no  Brasil  nos  anos  de  2007,
+2008  e  2009.  Considere  que  o  aumento  da  quantidade  de  isopor  reciclado  ocorrida  de  2008
+para  2009  repita-se  ano  a  ano  de  2009  até  2013  e,  a  partir  daí,  a  quantidade  total  reciclada
+anualmente permaneça inalterada por um período de 10 anos.
+Qual é a quantidade prevista para reciclagem de isopor, em tonelada, para o ano de 2020?
+Disponível em: www.plastivida.org.br. Acesso em: 31 jul. 2012 (adaptado).
+## A
+## B
+## C
+## D
+## E
+21 840
+21 600
+13 440
+13 200
+9 800",24
+2020,Matemática e suas Tecnologias,MT,AZUL,695,155,"O  gráfico  apresenta  a  evolução  do  crescimento  de  uma  determinada  árvore,  plantada  a
+partir de uma muda com 1 metro de altura. Nessa evolução, a altura da árvore, em metro, é
+descrita em função do tempo, medido em ano.
+No período de 1 ano, contado a partir do instante em que a árvore tinha dois anos e meio de
+plantio, a variação da altura dessa árvore, em metro, teve valor compreendido entre
+## A
+## B
+## C
+## D
+## E
+0,55 e 0,65.
+0,65 e 0,75.
+1,05 e 1,15.
+1,25 e 1,35.
+1,45 e 1,55.",20
+2020,Matemática e suas Tecnologias,MT,AZUL,695,156,"Uma  casa  lotérica  oferece  cinco  opções  de  jogos.  Em  cada  opção,  o  apostador  escolhe
+um  grupo  de  K  números  distintos  em  um  cartão  que  contém  um  total  de  N  números
+disponíveis,  gerando,  dessa  forma,  um  total  de  C  combinações  possíveis  para  se  fazer  a
+marcação  do  cartão.  Ganha  o  prêmio  o  cartão  que  apresentar  os  K  números  sorteados.  Os
+valores desses jogos variam de R$ 1,00 a R$ 2,00, conforme descrito no quadro.
+Um  apostador  dispõe  de  R$  2,00  para  gastar  em  uma  das  cinco  opções  de  jogos
+disponíveis.
+Segundo  o  valor  disponível  para  ser  gasto,  o  jogo  que  oferece  ao  apostador  maior
+probabilidade de ganhar prêmio é o
+## A
+## B
+## C
+## D
+## E
+## I.
+## II.
+## III.
+## IV.
+## V.",29
+2020,Matemática e suas Tecnologias,MT,AZUL,695,157,"O  gráfico  mostra  o  início  da  trajetória  de  um  robô  que  parte  do  ponto  A  (2  ;  0),
+movimentando-se  para  cima  ou  para  a  direita,  com  velocidade  de  uma  unidade  de
+comprimento por segundo, no plano cartesiano.
+O gráfico exemplifica uma trajetória desse robô, durante 6 segundos.
+Supondo que esse robô continue essa mesma trajetória, qual será sua coordenada, após 18
+segundos de caminhada, contando o tempo a partir do ponto A?
+## A
+## B
+## C
+## D
+## E
+(0 ; 18)
+(18 ; 2)
+(18 ; 0)
+(14 ; 6)
+(6 ; 14)",6
+2020,Matemática e suas Tecnologias,MT,AZUL,695,158,"De  acordo  com  pesquisas  recentes,  a  expectativa  de  vida  do  brasileiro  subiu  de  74,6
+anos,  em  2012,  para  74,9  anos,  em  2015.  Dentre  os  possíveis  fatores  para  esse  aumento
+estão a melhoria do sistema de saúde, o aumento da renda familiar e a prática de exercícios
+físicos.
+Para tornar essa notícia do aumento da expectativa de vida do brasileiro mais expressiva,
+converteu-se esse aumento para a quantidade de dias.
+Considere que para esta conversão o número de dias em cada mês foi fixado em 30.
+Com base nas informações, que cálculo correspondeu a essa conversão?
+## A
+## B
+## C
+## D
+## E",10
+2020,Matemática e suas Tecnologias,MT,AZUL,695,159,"Um jogo pedagógico é formado por cartas nas quais está impressa uma fração em uma
+de  suas  faces.  Cada  jogador  recebe  quatro  cartas  e  vence  aquele  que  primeiro  consegue
+ordenar  crescentemente  suas  cartas  pelas  respectivas  frações  impressas.  O  vencedor  foi  o
+aluno que recebeu as cartas com as frações:  
+e  .
+A ordem que esse aluno apresentou foi
+## A
+## B
+## C
+## D
+## E",1
+2020,Matemática e suas Tecnologias,MT,AZUL,695,160,"Segundo  indicação  de  um  veterinário,  um  cão  de  pequeno  porte,  nos  dois  primeiros
+meses  de  vida,  deverá  ser  alimentado  diariamente  com  50  g  de  suplemento  e  tomar  banho
+quatro  vezes  por  mês.  O  dono  de  um  cão  de  pequeno  porte,  seguindo  orientações  desse
+veterinário, utilizou no primeiro mês os produtos/serviços de um determinado pet shop, em que
+os preços estão apresentados no quadro.
+No mês subsequente, o fabricante reajustou o preço do suplemento, que, nesse pet shop,
+passou a custar R$ 9,00 cada pacote de 500 g. Visando manter o mesmo gasto mensal para o
+dono do cão, o gerente do pet shop decidiu reduzir o preço unitário do banho. Para efeito de
+cálculos, considere o mês comercial de 30 dias.
+Disponível em: http://carodinheiro.blogfolha.uol.com.br. Acesso em: 20 jan. 2015 (adaptado).
+Nessas condições, o valor unitário do banho, em real, passou a ser
+## A
+## B
+## C
+## D
+## E
+27,00.
+29,00.
+29,25.
+29,50.
+29,75.",5
+2020,Matemática e suas Tecnologias,MT,AZUL,695,161,"O Índice de Desenvolvimento da Educação Básica (Ideb), criado para medir a qualidade
+do aprendizado do ensino básico no Brasil, é calculado a cada dois anos. No seu cálculo são
+combinados  dois  indicadores:  o  aprendizado  e  o  fluxo  escolar,  obtidos  a  partir  do  Censo
+Escolar e das avaliações oficiais promovidas pelo Inep.
+O Ideb de uma escola numa dada série escolar pode ser calculado pela expressão
+em  que  N  é  a  média  da  proficiência  em  língua  portuguesa  e  matemática,  obtida  a  partir  do
+Sistema de Avaliação da Educação Básica (Saeb), e variando de 0 a 10. O indicador P,  que
+varia de 0 a 1, por sua vez, refere-se ao fluxo escolar, pois considera as taxas de aprovação e
+reprovação da instituição, sendo calculado por
+em que T é o tempo médio de permanência dos alunos na série.
+Disponível em: www.inep.gov.br. Acesso em: 2 ago. 2012.
+Uma  escola  apresentou  no  9º  ano  do  ensino  fundamental,  em  2017,  um  Ideb  diferente
+daquele  que  havia  apresentado  nessa  mesma  série  em  2015,  pois  o  tempo  médio  de
+permanência dos alunos no 9º ano diminuiu 2%, enquanto a média de proficiência em língua
+portuguesa e matemática, nessa série, aumentou em 2%.
+Dessa forma, o Ideb do 9º ano do ensino fundamental dessa escola em 2017, em relação ao
+calculado em 2015,
+## A
+## B
+## C
+## D
+## E
+permaneceu  inalterado,  pois  o  aumento  e  a  diminuição  de  2%  nos  dois  parâmetros
+anulam-se.
+aumentou  em  4%,  pois  o  aumento  de  2%  na  média  da  proficiência  soma-se  à
+diminuição de 2% no tempo médio de permanência dos alunos na série.
+diminuiu em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos
+alunos na série em 2% quanto o crescimento da média da proficiência em 2% implicam
+dois decréscimos consecutivos de 2% no valor do Ideb.
+aumentou em 4,04%, pois tanto o decrescimento do tempo médio de permanência dos
+alunos na série em 2% quanto o crescimento da média da proficiência em 2% implicam
+dois acréscimos consecutivos de 2% no valor do Ideb.
+aumentou  em  4,08%,  pois  houve  um  acréscimo  de  2%  num  parâmetro  que  é
+diretamente proporcional e um decréscimo de 2% num parâmetro que é inversamente
+proporcional ao Ideb.",17
+2020,Matemática e suas Tecnologias,MT,AZUL,695,162,"Um  agricultor  sabe  que  a  colheita  da  safra  de  soja  será  concluída  em  120  dias  caso
+utilize, durante 10 horas por dia, 20 máquinas de um  modelo  antigo,  que  colhem  2  hectares  por
+hora.  Com  o  objetivo  de  diminuir  o  tempo  de  colheita,  esse  agricultor  optou  por  utilizar
+máquinas de um novo modelo, que operam 12 horas por dia e colhem 4 hectares por hora.
+Quantas máquinas do novo modelo ele necessita adquirir para que consiga efetuar a colheita
+da safra em 100 dias?
+## A
+## B
+## C
+## D
+## E
+7
+10
+15
+40
+58",18
+2020,Matemática e suas Tecnologias,MT,AZUL,695,163,"Em  um  país,  as  infrações  de  trânsito  são  classificadas  de  acordo  com  sua  gravidade.
+Infrações dos tipos leves e médias acrescentam, respectivamente, 3 e 4 pontos na carteira de
+habilitação do infrator, além de multas a serem pagas. Um motorista cometeu 5 infrações de
+trânsito. Em consequência teve 17 pontos acrescentados em sua carteira de habilitação.
+Qual é a razão entre o número de infrações do tipo leve e o número de infrações do tipo média
+cometidas por esse motorista?
+## A
+## B
+## C
+## D
+## E",21
+2020,Matemática e suas Tecnologias,MT,AZUL,695,164,"Em  um  ano,  uma  prefeitura  apresentou  o  relatório  de  gastos  públicos  realizados  pelo
+município. O documento mostra que foram gastos 72 mil reais no mês de janeiro (mês 1), que
+o maior  gasto  mensal  ocorreu  no  mês  de  agosto  (mês  8)  e  que  a  prefeitura  gastou  105  mil
+reais no mês de dezembro (mês 12). A curva que modela esses gastos é a parábola y = T(x),
+com x sendo o número correspondente ao mês e T(x), em milhar de real.
+A expressão da função cujo gráfico é o da parábola descrita é
+## A
+## B
+## C
+## D
+## E",19
+2020,Matemática e suas Tecnologias,MT,AZUL,695,165,"Um marceneiro visitou 5 madeireiras para comprar tábuas que lhe permitissem construir 5
+prateleiras  de  formato  retangular,  de  dimensões  iguais  a  30  cm  de  largura  por  120  cm  de
+comprimento  cada,  tendo  como  objetivo  minimizar  a  sobra  de  madeira,  podendo,  para  isso,
+fazer qualquer tipo de emenda. As dimensões das tábuas encontradas nas madeireiras estão
+descritas no quadro.
+Em qual madeireira o marceneiro deve comprar as tábuas para atingir seu objetivo?
+## A
+## B
+## C
+## D
+## E
+## I
+## II
+## III
+## IV
+## V",9
+2020,Matemática e suas Tecnologias,MT,AZUL,695,166,"## “1, 2, 3, GOL, 5, 6, 7, GOL, 9, 10, 11, GOL, 13, GOL, 15, GOL, 17, 18, 19, GOL, 21, 22, 23,
+## GOL, 25, ...”
+Para a Copa do Mundo de Futebol de 2014, um bar onde se reuniam amigos para assistir
+aos  jogos  criou  uma  brincadeira.  Um  dos  presentes  era  escolhido  e  tinha  que  dizer,  numa
+sequência em ordem crescente, os números naturais não nulos, trocando os múltiplos de 4 e
+os números terminados em 4 pela palavra GOL. A brincadeira acabava quando o participante
+errava um termo da sequência.
+Um  dos  participantes  conseguiu  falar  até  o  número  103,  respeitando  as  regras  da
+brincadeira.
+O total de vezes em que esse participante disse a palavra GOL foi
+## A
+## B
+## C
+## D
+## E
+20.
+28.
+30.
+35.
+40.",2
+2020,Matemática e suas Tecnologias,MT,AZUL,695,167,"Na última eleição para a presidência de um clube, duas chapas se inscreveram (I e II). Há
+dois tipos de sócio: patrimoniais e contribuintes. Votos de sócios patrimoniais têm peso 0,6 e
+de sócios contribuintes têm peso 0,4. A chapa I recebeu 850 votos de sócios patrimoniais e 4
+300 de sócios contribuintes; a chapa II recebeu 1 300 votos de sócios patrimoniais e 2 120 de
+sócios  contribuintes.  Não  houve  abstenções,  votos  em  branco  ou  nulos,  e  a  chapa  I  foi
+vencedora.  Haverá  uma  nova  eleição  para  a  presidência  do  clube,  com  o  mesmo  número  e
+tipos  de  sócios,  e  as  mesmas  chapas  da  eleição  anterior.  Uma  consulta  feita  pela  chapa  II
+mostrou que os sócios patrimoniais não mudarão seus votos, e que pode contar com os votos
+dos  sócios  contribuintes  da  última  eleição.  Assim,  para  que  vença,  será  necessária  uma
+campanha  junto  aos  sócios  contribuintes  com  o  objetivo  de  que  mudem  seus  votos  para  a
+chapa II.
+A  menor  quantidade  de  sócios  contribuintes  que  precisam  trocar  seu  voto  da  chapa  I  para  a
+chapa II para que esta seja vencedora é
+## A
+## B
+## C
+## D
+## E
+449.
+753.
+866.
+941.
+1 091.",23
+2020,Matemática e suas Tecnologias,MT,AZUL,695,168,"Uma  microempresa  especializou-se  em produzir  um tipo  de  chaveiro  personalizado  para
+brindes.  O  custo  de  produção  de  cada  unidade  é  de  R$  0,42  e  são  comercializados  em
+pacotes com 400 chaveiros, que são vendidos por R$ 280,00. Além disso, essa empresa tem
+um custo mensal fixo de R$ 12 800,00 que não depende do número de chaveiros produzidos.
+Qual é o número mínimo de pacotes de chaveiros que devem ser vendidos mensalmente para
+que essa microempresa não tenha prejuízo no mês?
+## A
+## B
+## C
+## D
+## E
+26
+46
+109
+114
+115",3
+2020,Matemática e suas Tecnologias,MT,AZUL,695,169,"Um  investidor  deseja  aplicar  R$  10  000,00  durante  um  mês  em  um  dos  fundos  de
+investimento de um banco. O agente de investimentos desse banco apresentou dois tipos de
+aplicações  financeiras:  a  aplicação  Básica  e  a  aplicação  Pessoal,  cujas  informações  de
+rendimentos e descontos de taxas administrativas mensais são apresentadas no quadro.
+Consideradas as taxas de rendimento e administrativa, qual aplicação fornecerá maior valor de
+rendimento líquido a esse investidor e qual será esse valor?
+## A
+## B
+## C
+## D
+## E
+Básica, com rendimento líquido de R$ 53,90.
+Básica, com rendimento líquido de R$ 54,50.
+Pessoal, com rendimento líquido de R$ 56,00.
+Pessoal, com rendimento líquido de R$ 58,12.
+Pessoal, com rendimento líquido de R$ 59,80.",4
+2020,Matemática e suas Tecnologias,MT,AZUL,695,170,"Por muitos anos, o Brasil tem figurado no cenário mundial entre os maiores produtores e
+exportadores de soja. Entre os anos de 2010 e 2014, houve uma forte tendência de aumento
+da  produtividade,  porém,  um  aspecto  dificultou  esse  avanço:  o  alto  custo  do  imposto  ao
+produtor associado ao baixo preço de venda do produto. Em média, um produtor gastava R$ 1
+200,00  por  hectare  plantado,  e  vendia  por  R$  50,00  cada  saca  de  60  kg.  Ciente  desses
+valores,  um  produtor  pode,  em  certo  ano,  determinar  uma  relação  do  lucro L que obteve em
+função  das  sacas  de  60  kg  vendidas.  Suponha  que  ele  plantou  10  hectares  de  soja  em  sua
+propriedade, na qual colheu x sacas de 60 kg e todas as sacas foram vendidas.
+Disponível em: www.cnpso.embrapa.br. Acesso em: 27 fev. 2012 (adaptado).
+Qual é a expressão que determinou o lucro L em função de x obtido por esse produtor nesse
+ano?
+## A
+## B
+## C
+## D
+## E
+L(x) = 50x – 1 200
+L(x) = 50x – 12 000
+L(x) = 50x + 12 000
+L(x) = 500x – 1 200
+L(x) = 1 200x – 500",19
+2020,Matemática e suas Tecnologias,MT,AZUL,695,171,"Os  tempos  gastos  por  três  alunos  para  resolver  um  mesmo  exercício  de  matemática
+foram: 3,25 minutos; 3,4 minutos  e 191 segundos.
+O  tempo  gasto  a  mais,  em  segundo,  pelo  aluno  que  concluiu  por  último  a  resolução  do
+exercício, em relação ao primeiro que o finalizou, foi igual a
+## A
+## B
+## C
+## D
+## E
+13.
+14.
+15.
+21.
+29.",12
+2020,Matemática e suas Tecnologias,MT,AZUL,695,172,"Uma  empresa  de  chocolates  consultou  o  gerente  de  produção  e  verificou  que  existem
+cinco  tipos  diferentes  de  barras  de  chocolate  que  podem  ser  produzidas,  com  os  seguintes
+preços no mercado:
+• Barra I: R$ 2,00;
+• Barra II: R$ 3,50;
+• Barra III: R$ 4,00;
+• Barra IV: R$ 7,00;
+• Barra V: R$ 8,00.
+Analisando  as  tendências  do  mercado,  que  incluem  a  quantidade  vendida  e  a  procura
+pelos consumidores, o gerente de vendas da empresa verificou que o lucro L com a venda de
+barras  de  chocolate  é  expresso  pela  função  L(x)  =  –  x2  +  14x  –  45,  em  que  x  representa  o
+preço da barra de chocolate.
+A  empresa  decide  investir  na  fabricação  da  barra  de  chocolate  cujo  preço  praticado  no
+mercado renderá o maior lucro.
+Nessas condições, a empresa deverá investir na produção da barra
+## A
+## B
+## C
+## D
+## E
+## I.
+## II.
+## III.
+## IV.
+## V.",22
+2020,Matemática e suas Tecnologias,MT,AZUL,695,173,"A figura ilustra a vista superior de um brinquedo gira-gira em um parque de diversões, no
+qual a linha contínua, em formato circular tendo O como seu centro, indica o assento onde as
+crianças  se  posicionam  no  brinquedo.  O  ponto P  indica  a  posição  ocupada  por  uma  criança,
+em um instante de tempo T, quando o brinquedo está girando continuamente no sentido anti-
+horário (com O fixo), e velocidade constante por várias voltas.
+O brinquedo está situado nas proximidades de duas paredes verticais e perpendiculares
+entre si. Seja D a distância de P até a parede I.
+O gráfico que melhor representa, em função do tempo t a partir do instante T, a distância D é
+## D
+## E
+## A
+## B
+## C",6
+2020,Matemática e suas Tecnologias,MT,AZUL,695,174,"Um modelo de telefone celular oferece a opção de desbloquear a tela usando um padrão
+de toques como senha.
+Os  toques  podem  ser  feitos  livremente  nas  4  regiões  numeradas  da  tela,  sendo  que  o
+usuário pode escolher entre 3, 4 ou 5 toques ao todo.
+Qual expressão representa o número total de códigos existentes?
+## A
+## B
+## C
+## D
+## E",2
+2020,Matemática e suas Tecnologias,MT,AZUL,695,175,"Um investidor pretende aplicar R$ 100 000,00 no mercado financeiro. Para isso pesquisou
+cinco  investimentos  distintos,  aferindo  os  rendimentos  mensais,  em  real,  de  cada  um  deles.
+Para decidir em qual aplicar seu dinheiro, considerou também a incidência mensal de Imposto
+de  Renda  (IR)  sobre  o  respectivo  rendimento.  Avaliou  que  o  maior  retorno  financeiro  virá  da
+aplicação em um único investimento: aquele em que a diferença entre o rendimento mensal e
+o imposto  que  incidir  sobre  ele  seja  a  maior  possível.  Os  dados  levantados  pelo  investidor
+sobre rendimento e imposto referentes à aplicação encontram-se a seguir.
+O investidor decidiu fazer a aplicação no investimento
+## A
+## B
+## C
+## D
+## E
+## I.
+## II.
+## III.
+## IV.
+## V.",26
+2020,Matemática e suas Tecnologias,MT,AZUL,695,176,"Três  pessoas,  X,  Y  e  Z,  compraram  plantas  ornamentais  de  uma  mesma  espécie  que
+serão cultivadas em vasos de diferentes tamanhos.
+O  vaso  escolhido  pela  pessoa  X  tem  capacidade  de  4  dm3.  O  vaso  da  pessoa  Y  tem
+capacidade de 7 000 cm3 e o de Z tem capacidade igual a 20 L.
+Após  um  tempo  do  plantio  das  mudas,  um  botânico  que  acompanha  o  desenvolvimento
+delas realizou algumas medições e registrou que a planta que está no vaso da pessoa X tem
+0,6  m  de  altura.  Já  as  plantas  que  estão  nos  vasos  de  Y  e  Z  têm,  respectivamente,  alturas
+medindo 120 cm e 900 mm.
+O vaso de maior capacidade e a planta de maior altura são, respectivamente, os de
+## A
+## B
+## C
+## D
+## E
+Y e X.
+Y e Z.
+Z e X.
+Z e Y.
+Z e Z.",10
+2020,Matemática e suas Tecnologias,MT,AZUL,695,177,"A  gerência  de  uma  loja  de  eletrônicos  organizou  em  um  quadro  os  dados  de  venda
+(quantidade e preço unitário) de celulares, impressoras e notebooks de um ano.
+Para  o  ano  seguinte,  deseja  arrecadar  10%  a  mais  do  que  foi  arrecadado  naquele  ano
+anterior,  vendendo  as  mesmas  quantidades  de  cada  um  desses  três  produtos,  mas
+reajustando apenas o preço do notebook.
+O preço de venda a ser estabelecido para um notebook, para o ano seguinte, em real, deverá
+ser igual a
+## A
+## B
+## C
+## D
+## E
+975,00.
+990,00.
+1 040,00.
+1 065,00.
+1 540,00.",5
+2020,Matemática e suas Tecnologias,MT,AZUL,695,178,"Um  apostador  deve  escolher  uma  entre  cinco  moedas  ao  acaso  e  lançá-la  sobre  uma
+mesa, tentando acertar qual resultado (cara ou coroa) sairá na face superior da moeda.
+Suponha que as cinco moedas que ele pode escolher sejam diferentes:
+• duas delas têm “cara” nas duas faces;
+• uma delas tem “coroa” nas duas faces;
+• duas delas são normais (cara em uma face e coroa na outra).
+Nesse jogo, qual é a probabilidade de o apostador obter uma face ""cara"" no lado superior da
+moeda lançada por ele?
+## A
+## B
+## C
+## D
+## E",28
+2020,Matemática e suas Tecnologias,MT,AZUL,695,179,"Um fazendeiro possui uma cisterna com capacidade de 10 000 litros para coletar a água
+da  chuva.  Ele  resolveu  ampliar  a  área  de  captação  da  água  da  chuva  e  consultou  um
+engenheiro  que  lhe  deu  a  seguinte  explicação:  “Nesta  região,  o  índice  pluviométrico  anual
+médio  é  de  400  milímetros.  Como  a  área  de  captação  da  água  da  chuva  de  sua  casa  é  um
+retângulo de 3 m de largura por 7 m de comprimento, sugiro que aumente essa área para que,
+em  um  ano,  com  esse  índice  pluviométrico,  o  senhor  consiga  encher  a  cisterna,  estando  ela
+inicialmente vazia”.
+Sabe-se que o índice pluviométrico de um milímetro corresponde a um litro de água por
+metro  quadrado.  Considere  que  as  previsões  pluviométricas  são  cumpridas  e  que  não  há
+perda, por nenhum meio, no armazenamento da água.
+Em  quantos  metros  quadrados,  no  mínimo,  o  fazendeiro  deve  aumentar  a  área  de  captação
+para encher a cisterna em um ano?
+## A
+## B
+## C
+## D
+## E
+1,6
+2,0
+4,0
+15,0
+25,0",14
+2020,Matemática e suas Tecnologias,MT,AZUL,695,180,"No projeto de uma nova máquina, um engenheiro encomendou a um torneiro mecânico a
+fabricação de uma peça, obtida a partir do recorte em um cubo, como ilustrado na figura. Para
+isso,  o  torneiro  forneceu,  juntamente  com  o  desenho  tridimensional  da  peça,  suas  vistas
+frontal, lateral e superior, a partir das posições indicadas na figura. Para facilitar o trabalho do
+torneiro, as arestas dos cortes que ficam ocultos nas três vistas devem ser representadas por
+segmentos tracejados, quando for o caso.
+As  vistas  frontal,  lateral  e  superior  que  melhor  representam  o  desenho  entregue  ao  torneiro
+são
+## A
+## B
+## C
+## D
+## E",7
